@@ -1,10 +1,6 @@
-NotFoundError: DOM Exception 8: An attempt was made to reference a Node in a context where it does not exist.
+null	busotir
 47	PrincipessaMilana
 46	xheo
 34	pr-positive
 32	ymat
 28	cron314
-  http://ads.adfox.ru/6902/getCodeTest?yandexuid=16350884275235550109&sign=17ccdb3ef176fb8d1a4655b222a7c0cd&pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=328582&pt=b&pd=18&pw=5&pv=19&prr=&pdw=1680&pdh=1050&dl=http%3A//www.sports.ru/fantasy/football/team/points/1558719.html&pr1=400518&pk=:23
-  http://ads.adfox.ru/6902/getCodeTest?yandexuid=16350884275235550109&sign=17ccdb3ef176fb8d1a4655b222a7c0cd&pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=328582&pt=b&pd=18&pw=5&pv=19&prr=&pdw=1680&pdh=1050&dl=http%3A//www.sports.ru/fantasy/football/team/points/1558719.html&pr1=400518&pk=:22 in removeChild
-  http://ads.adfox.ru/6902/getCodeTest?yandexuid=16350884275235550109&sign=17ccdb3ef176fb8d1a4655b222a7c0cd&pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=328582&pt=b&pd=18&pw=5&pv=19&prr=&pdw=1680&pdh=1050&dl=http%3A//www.sports.ru/fantasy/football/team/points/1558719.html&pr1=400518&pk=:22 in onerror
-
