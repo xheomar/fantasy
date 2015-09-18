@@ -2,9 +2,9 @@ null	busotir
 NotFoundError: DOM Exception 8: An attempt was made to reference a Node in a context where it does not exist.
 47	PrincipessaMilana
 46	xheo
-34	pr-positive
+32	ymat
 28	cron314
-  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=386782&pt=b&pd=18&pw=5&pv=17&prr=&pdw=1680&pdh=1050&dl=http%3A//www.sports.ru/fantasy/football/team/points/1557043.html&pr1=797386&pk=:23
-  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=386782&pt=b&pd=18&pw=5&pv=17&prr=&pdw=1680&pdh=1050&dl=http%3A//www.sports.ru/fantasy/football/team/points/1557043.html&pr1=797386&pk=:22 in removeChild
-  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=386782&pt=b&pd=18&pw=5&pv=17&prr=&pdw=1680&pdh=1050&dl=http%3A//www.sports.ru/fantasy/football/team/points/1557043.html&pr1=797386&pk=:22 in onerror
+  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=984779&pt=b&pd=18&pw=5&pv=17&prr=&pdw=1680&pdh=1050&dl=http%3A//www.sports.ru/fantasy/football/team/points/1553274.html&pr1=564066&pk=:23
+  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=984779&pt=b&pd=18&pw=5&pv=17&prr=&pdw=1680&pdh=1050&dl=http%3A//www.sports.ru/fantasy/football/team/points/1553274.html&pr1=564066&pk=:22 in removeChild
+  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=984779&pt=b&pd=18&pw=5&pv=17&prr=&pdw=1680&pdh=1050&dl=http%3A//www.sports.ru/fantasy/football/team/points/1553274.html&pr1=564066&pk=:22 in onerror
 
