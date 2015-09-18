@@ -1,15 +1,6 @@
 null	busotir
-Error: Invalid transition [impermanentlyClosing to impermanentlyClosing]
 47	PrincipessaMilana
 46	xheo
 34	pr-positive
 32	ymat
 28	cron314
-  http://s5o.ru/build/libs/sports-pusher.js?ver=9:706 in ws_onError
-  http://s5o.ru/build/libs/sports-pusher.js?ver=9:581 in TransitionToImpermanentClosing
-  http://s5o.ru/build/libs/sports-pusher.js?ver=9:514 in impermanentlyClosingPost
-  http://s5o.ru/build/libs/sports-pusher.js?ver=9:275 in transition
-  http://s5o.ru/build/libs/sports-pusher.js?ver=9:259 in transition
-  http://s5o.ru/build/libs/sports-pusher.js?ver=9:232 in safeCall
-  :0 in close
-
