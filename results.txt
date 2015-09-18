@@ -1,12 +1,6 @@
 null	busotir
-http://requirejs.org/docs/errors.html#scripterror
-Error: Script error for: utils/local-storage
 47	PrincipessaMilana
 46	xheo
 34	pr-positive
 32	ymat
 28	cron314
-  http://s5o.ru/build/libs/require.js:8 in ca
-  http://s5o.ru/build/libs/require.js:29 in onScriptError
-  http://s5o.ru/build/libs/require.js:12 in w
-
