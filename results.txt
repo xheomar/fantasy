@@ -1,18 +1,6 @@
-ReferenceError: Can't find variable: crtg_content
-ReferenceError: Can't find variable: crtg_content
-ReferenceError: Can't find variable: crtg_content
-ReferenceError: Can't find variable: crtg_content
 null	busotir
 47	PrincipessaMilana
 46	xheo
 34	pr-positive
 32	ymat
 28	cron314
-  http://www.sports.ru/fantasy/football/team/points/1558719.html:2842 in global code
-  http://www.sports.ru/fantasy/football/team/points/1558719.html:112 in global code
-  http://www.sports.ru/fantasy/football/team/points/1553274.html:2851 in global code
-  http://www.sports.ru/fantasy/football/team/points/1553274.html:112 in global code
-
-
-
-
