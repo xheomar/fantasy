@@ -1,14 +1,10 @@
 null	busotir
 NotFoundError: DOM Exception 8: An attempt was made to reference a Node in a context where it does not exist.
-NotFoundError: DOM Exception 8: An attempt was made to reference a Node in a context where it does not exist.
 47	PrincipessaMilana
 46	xheo
+34	pr-positive
 32	ymat
-  http://ads.adfox.ru/6902/getCodeTest?yandexuid=910427549939173227&sign=499bea85476106dccf65f759b1f1616d&pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=516967&pt=b&pd=18&pw=5&pv=18&prr=&pdw=1680&pdh=1050&dl=http%3A//www.sports.ru/fantasy/football/team/points/1553274.html&pr1=477184&pk=:23
-  http://ads.adfox.ru/6902/getCodeTest?yandexuid=910427549939173227&sign=499bea85476106dccf65f759b1f1616d&pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=516967&pt=b&pd=18&pw=5&pv=18&prr=&pdw=1680&pdh=1050&dl=http%3A//www.sports.ru/fantasy/football/team/points/1553274.html&pr1=477184&pk=:22 in removeChild
-  http://ads.adfox.ru/6902/getCodeTest?yandexuid=910427549939173227&sign=499bea85476106dccf65f759b1f1616d&pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=516967&pt=b&pd=18&pw=5&pv=18&prr=&pdw=1680&pdh=1050&dl=http%3A//www.sports.ru/fantasy/football/team/points/1553274.html&pr1=477184&pk=:22 in onerror
-  http://ads.adfox.ru/6902/getCodeTest?yandexuid=3149372154244711415&sign=922d3c3b3ca87cd9ab58fbeffabe8437&pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=200742&pt=b&pd=18&pw=5&pv=18&prr=&pdw=1680&pdh=1050&dl=http%3A//www.sports.ru/fantasy/football/team/points/1562633.html&pr1=904910&pk=:23
-  http://ads.adfox.ru/6902/getCodeTest?yandexuid=3149372154244711415&sign=922d3c3b3ca87cd9ab58fbeffabe8437&pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=200742&pt=b&pd=18&pw=5&pv=18&prr=&pdw=1680&pdh=1050&dl=http%3A//www.sports.ru/fantasy/football/team/points/1562633.html&pr1=904910&pk=:22 in removeChild
-  http://ads.adfox.ru/6902/getCodeTest?yandexuid=3149372154244711415&sign=922d3c3b3ca87cd9ab58fbeffabe8437&pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=200742&pt=b&pd=18&pw=5&pv=18&prr=&pdw=1680&pdh=1050&dl=http%3A//www.sports.ru/fantasy/football/team/points/1562633.html&pr1=904910&pk=:22 in onerror
-
+  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=814431&pt=b&pd=18&pw=5&pv=19&prr=&pdw=1680&pdh=1050&dl=http%3A//www.sports.ru/fantasy/football/team/points/1562633.html&pr1=33834&pk=:23
+  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=814431&pt=b&pd=18&pw=5&pv=19&prr=&pdw=1680&pdh=1050&dl=http%3A//www.sports.ru/fantasy/football/team/points/1562633.html&pr1=33834&pk=:22 in removeChild
+  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=814431&pt=b&pd=18&pw=5&pv=19&prr=&pdw=1680&pdh=1050&dl=http%3A//www.sports.ru/fantasy/football/team/points/1562633.html&pr1=33834&pk=:22 in onerror
 
