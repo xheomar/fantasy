@@ -8,10 +8,10 @@ null	busotir
 34	pr-positive
 32	ymat
 28	cron314
-  http://www.sports.ru/fantasy/football/team/points/1559624.html:2855 in global code
-  http://www.sports.ru/fantasy/football/team/points/1559624.html:112 in global code
-  http://www.sports.ru/fantasy/football/team/points/1557039.html:2850 in global code
-  http://www.sports.ru/fantasy/football/team/points/1557039.html:112 in global code
+  http://www.sports.ru/fantasy/football/team/points/1558719.html:2842 in global code
+  http://www.sports.ru/fantasy/football/team/points/1558719.html:112 in global code
+  http://www.sports.ru/fantasy/football/team/points/1553274.html:2851 in global code
+  http://www.sports.ru/fantasy/football/team/points/1553274.html:112 in global code
 
 
 
