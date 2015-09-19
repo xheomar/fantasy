@@ -12,9 +12,9 @@ phantomjs.exe getPoints.js http://www.sports.ru/fantasy/football/team/1562633.ht
 
 phantomjs.exe getPoints.js http://www.sports.ru/fantasy/football/team/1557039.html PrincipessaMilana >> file.txt
 
-sort -r file.txt > result.txt
+:: sort -r file.txt > result.txt
 
-git add result.txt
+git add file.txt
 
 git commit -m "Again and again..."
 
