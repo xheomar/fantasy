@@ -1,12 +1,6 @@
-http://requirejs.org/docs/errors.html#scripterror
-Error: Script error for: utils/local-storage
 7	xheo
 5	pr-positive
 10	PrincipessaMilana
 0	ymat
 0	cron314
 0	busotir
-
-  http://s5o.ru/build/libs/require.js:8 in ca
-  http://s5o.ru/build/libs/require.js:30
-  http://s5o.ru/build/libs/require.js:12 in w
