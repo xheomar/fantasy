@@ -184,14 +184,16 @@ page.open(siteName, function (status)
 			
 			// The last update 
 			var p = 0;
-			for (var l = players; l < 11; l++) {
-				if (reserve_used[p] != "true")
-				{
-					console.log("We are going to add " + reserve_points[p] + " points");
-					points += parseInt(reserve_points[p]);
-					reserve_used[p] = "true";
-					p++;
-				}					
+			if (reserve_points.length > 0) {
+				for (var l = players; l < 11; l++) {
+					if (reserve_used[p] != "true")
+					{
+						console.log("We are going to add " + reserve_points[p] + " points");
+						points += parseInt(reserve_points[p]);
+						reserve_used[p] = "true";
+						p++;
+					}					
+				}
 			}
 			
 			console.log("The overall points: " + points);

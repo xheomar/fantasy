@@ -1,0 +1,90 @@
+Trying to open http://www.sports.ru/fantasy/football/team/1553274.html...
+The points of forwards: 3
+The points of halfbacks: 
+We need 2 more halfbacks!
+The points of defenders: 
+We need 3 more defenders!
+The points of goalkeepers: 
+We need 1 more goalkeepers!
+The points of reserves: 
+The positions of reserves: 
+No more goalkeepers were found
+No more defenders were found
+No more halfbacks were found
+The overall points: 3
+3	pr-positive
+Trying to open http://www.sports.ru/fantasy/football/team/1557043.html...
+The points of forwards: 
+The points of halfbacks: 
+We need 2 more halfbacks!
+The points of defenders: 
+We need 3 more defenders!
+The points of goalkeepers: 
+We need 1 more goalkeepers!
+The points of reserves: 
+The positions of reserves: 
+No more goalkeepers were found
+No more defenders were found
+No more halfbacks were found
+The overall points: 0
+0	ymat
+Trying to open http://www.sports.ru/fantasy/football/team/1559624.html...
+The points of forwards: 
+The points of halfbacks: 0
+We need 1 more halfbacks!
+The points of defenders: 
+We need 3 more defenders!
+The points of goalkeepers: 
+We need 1 more goalkeepers!
+The points of reserves: 0
+The positions of reserves: Вр
+We are going to add 0 points for goalkeepers
+No more defenders were found
+No more halfbacks were found
+The overall points: 0
+0	xheo
+Trying to open http://www.sports.ru/fantasy/football/team/1558719.html...
+The points of forwards: 
+The points of halfbacks: 
+We need 2 more halfbacks!
+The points of defenders: 
+We need 3 more defenders!
+The points of goalkeepers: 
+We need 1 more goalkeepers!
+The points of reserves: 
+The positions of reserves: 
+No more goalkeepers were found
+No more defenders were found
+No more halfbacks were found
+The overall points: 0
+0	busotir
+Trying to open http://www.sports.ru/fantasy/football/team/1562633.html...
+The points of forwards: 
+The points of halfbacks: 
+We need 2 more halfbacks!
+The points of defenders: 
+We need 3 more defenders!
+The points of goalkeepers: 
+We need 1 more goalkeepers!
+The points of reserves: 
+The positions of reserves: 
+No more goalkeepers were found
+No more defenders were found
+No more halfbacks were found
+The overall points: 0
+0	cron314
+Trying to open http://www.sports.ru/fantasy/football/team/1557039.html...
+The points of forwards: 
+The points of halfbacks: 0
+We need 1 more halfbacks!
+The points of defenders: 
+We need 3 more defenders!
+The points of goalkeepers: 
+We need 1 more goalkeepers!
+The points of reserves: 
+The positions of reserves: 
+No more goalkeepers were found
+No more defenders were found
+No more halfbacks were found
+The overall points: 0
+0	PrincipessaMilana
