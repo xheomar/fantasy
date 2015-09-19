@@ -3,53 +3,17 @@
 --------------------
 pr-positive - 5
 
-Васкес - 0
---------------------
-ymat - 0
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html. Domains, protocols and ports must match.
 
-Бакка - 4
-Бонавенту... - 8
-Сапонара - 5
-Скорупски - 2
---------------------
-xheo - 19
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html. Domains, protocols and ports must match.
 
---------------------
-busotir - 0
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL http://content.adfox.ru/150716/adfox/411919/1322722_1.html. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL http://content.adfox.ru/150716/adfox/411919/1322722_1.html. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL http://content.adfox.ru/150716/adfox/411919/1322722_1.html. Domains, protocols and ports must match.
-
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL http://content.adfox.ru/150716/adfox/411919/1322722_1.html. Domains, protocols and ports must match.
-
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL http://content.adfox.ru/150716/adfox/411919/1322722_1.html. Domains, protocols and ports must match.
-
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL http://content.adfox.ru/150716/adfox/411919/1322722_1.html. Domains, protocols and ports must match.
-
-Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL http://content.adfox.ru/150716/adfox/411919/1322722_1.html. Domains, protocols and ports must match.
-
-Unsafe JavaScript attempt to access frame with URL http://awaps.yandex.ru/0/9947/001001.htm from frame with URL http://content.adfox.ru/150716/adfox/411919/1322722_1.html. Domains, protocols and ports must match.
-
-Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL http://content.adfox.ru/150716/adfox/411919/1322722_1.html. Domains, protocols and ports must match.
-
-Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL http://content.adfox.ru/150716/adfox/411919/1322722_1.html. Domains, protocols and ports must match.
-
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL http://content.adfox.ru/150716/adfox/411919/1322722_1.html. Domains, protocols and ports must match.
-
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html. Domains, protocols and ports must match.
-
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html. Domains, protocols and ports must match.
-
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html. Domains, protocols and ports must match.
-
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html. Domains, protocols and ports must match.
-
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html. Domains, protocols and ports must match.
-
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html. Domains, protocols and ports must match.
 
 Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html. Domains, protocols and ports must match.
 
@@ -59,77 +23,79 @@ Unsafe JavaScript attempt to access frame with URL about:blank from frame with U
 
 Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL about:blank. Domains, protocols and ports must match.
 
 Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL about:blank. Domains, protocols and ports must match.
 
@@ -139,77 +105,181 @@ Unsafe JavaScript attempt to access frame with URL about:blank from frame with U
 
 Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9041987464336118&output=html&h=400&slotname=9067499928&adk=3020498260&w=240&ea=0&flash=0&url=http%3A%2F%2Fwww.sports.ru%2Ffantasy%2Ffootball%2Fteam%2Fpoints%2F1557043.html&wgl=0&dt=1442691626064&bpp=17&shv=r20150915&cbv=r20150820&saldr=sa&correlator=180504700929&frm=24&ga_vid=2019471821.1442691627&ga_sid=1442691627&ga_hid=163026462&ga_fc=0&pv=2&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=768&u_aw=1303&u_cd=32&u_nplug=0&u_nmime=0&dff=times%20new%20roman&dfs=16&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=240&ish=400&ifk=1181265659&eid=575144605%2C317150304&oid=3&rx=0&eae=6&jp=2&brdim=0%2C0%2C0%2C0%2C1303%2C0%2C0%2C0%2C240%2C400&vis=0&rsz=%7C%7Cc%7C&abl=NS&ppjl=u&pfx=0&srr=1&fu=16&bc=1&ifi=1&dtd=450. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9041987464336118&output=html&h=400&slotname=9067499928&adk=3020498260&w=240&ea=0&flash=0&url=http%3A%2F%2Fwww.sports.ru%2Ffantasy%2Ffootball%2Fteam%2Fpoints%2F1557043.html&wgl=0&dt=1442691626064&bpp=17&shv=r20150915&cbv=r20150820&saldr=sa&correlator=180504700929&frm=24&ga_vid=2019471821.1442691627&ga_sid=1442691627&ga_hid=163026462&ga_fc=0&pv=2&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=768&u_aw=1303&u_cd=32&u_nplug=0&u_nmime=0&dff=times%20new%20roman&dfs=16&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=240&ish=400&ifk=1181265659&eid=575144605%2C317150304&oid=3&rx=0&eae=6&jp=2&brdim=0%2C0%2C0%2C0%2C1303%2C0%2C0%2C0%2C240%2C400&vis=0&rsz=%7C%7Cc%7C&abl=NS&ppjl=u&pfx=0&srr=1&fu=16&bc=1&ifi=1&dtd=450. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html from frame with URL https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9041987464336118&output=html&h=400&slotname=9067499928&adk=3020498260&w=240&ea=0&flash=0&url=http%3A%2F%2Fwww.sports.ru%2Ffantasy%2Ffootball%2Fteam%2Fpoints%2F1557043.html&wgl=0&dt=1442691626064&bpp=17&shv=r20150915&cbv=r20150820&saldr=sa&correlator=180504700929&frm=24&ga_vid=2019471821.1442691627&ga_sid=1442691627&ga_hid=163026462&ga_fc=0&pv=2&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=768&u_aw=1303&u_cd=32&u_nplug=0&u_nmime=0&dff=times%20new%20roman&dfs=16&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=240&ish=400&ifk=1181265659&eid=575144605%2C317150304&oid=3&rx=0&eae=6&jp=2&brdim=0%2C0%2C0%2C0%2C1303%2C0%2C0%2C0%2C240%2C400&vis=0&rsz=%7C%7Cc%7C&abl=NS&ppjl=u&pfx=0&srr=1&fu=16&bc=1&ifi=1&dtd=450. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9041987464336118&output=html&h=400&slotname=9067499928&adk=3020498260&w=240&ea=0&flash=0&url=http%3A%2F%2Fwww.sports.ru%2Ffantasy%2Ffootball%2Fteam%2Fpoints%2F1557043.html&wgl=0&dt=1442691626064&bpp=17&shv=r20150915&cbv=r20150820&saldr=sa&correlator=180504700929&frm=24&ga_vid=2019471821.1442691627&ga_sid=1442691627&ga_hid=163026462&ga_fc=0&pv=2&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=768&u_aw=1303&u_cd=32&u_nplug=0&u_nmime=0&dff=times%20new%20roman&dfs=16&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=240&ish=400&ifk=1181265659&eid=575144605%2C317150304&oid=3&rx=0&eae=6&jp=2&brdim=0%2C0%2C0%2C0%2C1303%2C0%2C0%2C0%2C240%2C400&vis=0&rsz=%7C%7Cc%7C&abl=NS&ppjl=u&pfx=0&srr=1&fu=16&bc=1&ifi=1&dtd=450. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9041987464336118&output=html&h=400&slotname=9067499928&adk=3020498260&w=240&ea=0&flash=0&url=http%3A%2F%2Fwww.sports.ru%2Ffantasy%2Ffootball%2Fteam%2Fpoints%2F1557043.html&wgl=0&dt=1442691626064&bpp=17&shv=r20150915&cbv=r20150820&saldr=sa&correlator=180504700929&frm=24&ga_vid=2019471821.1442691627&ga_sid=1442691627&ga_hid=163026462&ga_fc=0&pv=2&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=768&u_aw=1303&u_cd=32&u_nplug=0&u_nmime=0&dff=times%20new%20roman&dfs=16&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=240&ish=400&ifk=1181265659&eid=575144605%2C317150304&oid=3&rx=0&eae=6&jp=2&brdim=0%2C0%2C0%2C0%2C1303%2C0%2C0%2C0%2C240%2C400&vis=0&rsz=%7C%7Cc%7C&abl=NS&ppjl=u&pfx=0&srr=1&fu=16&bc=1&ifi=1&dtd=450. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html from frame with URL https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9041987464336118&output=html&h=400&slotname=9067499928&adk=3020498260&w=240&ea=0&flash=0&url=http%3A%2F%2Fwww.sports.ru%2Ffantasy%2Ffootball%2Fteam%2Fpoints%2F1557043.html&wgl=0&dt=1442691626064&bpp=17&shv=r20150915&cbv=r20150820&saldr=sa&correlator=180504700929&frm=24&ga_vid=2019471821.1442691627&ga_sid=1442691627&ga_hid=163026462&ga_fc=0&pv=2&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=768&u_aw=1303&u_cd=32&u_nplug=0&u_nmime=0&dff=times%20new%20roman&dfs=16&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=240&ish=400&ifk=1181265659&eid=575144605%2C317150304&oid=3&rx=0&eae=6&jp=2&brdim=0%2C0%2C0%2C0%2C1303%2C0%2C0%2C0%2C240%2C400&vis=0&rsz=%7C%7Cc%7C&abl=NS&ppjl=u&pfx=0&srr=1&fu=16&bc=1&ifi=1&dtd=450. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9041987464336118&output=html&h=400&slotname=9067499928&adk=3020498260&w=240&ea=0&flash=0&url=http%3A%2F%2Fwww.sports.ru%2Ffantasy%2Ffootball%2Fteam%2Fpoints%2F1557043.html&wgl=0&dt=1442691626064&bpp=17&shv=r20150915&cbv=r20150820&saldr=sa&correlator=180504700929&frm=24&ga_vid=2019471821.1442691627&ga_sid=1442691627&ga_hid=163026462&ga_fc=0&pv=2&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=768&u_aw=1303&u_cd=32&u_nplug=0&u_nmime=0&dff=times%20new%20roman&dfs=16&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=240&ish=400&ifk=1181265659&eid=575144605%2C317150304&oid=3&rx=0&eae=6&jp=2&brdim=0%2C0%2C0%2C0%2C1303%2C0%2C0%2C0%2C240%2C400&vis=0&rsz=%7C%7Cc%7C&abl=NS&ppjl=u&pfx=0&srr=1&fu=16&bc=1&ifi=1&dtd=450. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9041987464336118&output=html&h=400&slotname=9067499928&adk=3020498260&w=240&ea=0&flash=0&url=http%3A%2F%2Fwww.sports.ru%2Ffantasy%2Ffootball%2Fteam%2Fpoints%2F1557043.html&wgl=0&dt=1442691626064&bpp=17&shv=r20150915&cbv=r20150820&saldr=sa&correlator=180504700929&frm=24&ga_vid=2019471821.1442691627&ga_sid=1442691627&ga_hid=163026462&ga_fc=0&pv=2&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=768&u_aw=1303&u_cd=32&u_nplug=0&u_nmime=0&dff=times%20new%20roman&dfs=16&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=240&ish=400&ifk=1181265659&eid=575144605%2C317150304&oid=3&rx=0&eae=6&jp=2&brdim=0%2C0%2C0%2C0%2C1303%2C0%2C0%2C0%2C240%2C400&vis=0&rsz=%7C%7Cc%7C&abl=NS&ppjl=u&pfx=0&srr=1&fu=16&bc=1&ifi=1&dtd=450. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html from frame with URL https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9041987464336118&output=html&h=400&slotname=9067499928&adk=3020498260&w=240&ea=0&flash=0&url=http%3A%2F%2Fwww.sports.ru%2Ffantasy%2Ffootball%2Fteam%2Fpoints%2F1557043.html&wgl=0&dt=1442691626064&bpp=17&shv=r20150915&cbv=r20150820&saldr=sa&correlator=180504700929&frm=24&ga_vid=2019471821.1442691627&ga_sid=1442691627&ga_hid=163026462&ga_fc=0&pv=2&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=768&u_aw=1303&u_cd=32&u_nplug=0&u_nmime=0&dff=times%20new%20roman&dfs=16&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=240&ish=400&ifk=1181265659&eid=575144605%2C317150304&oid=3&rx=0&eae=6&jp=2&brdim=0%2C0%2C0%2C0%2C1303%2C0%2C0%2C0%2C240%2C400&vis=0&rsz=%7C%7Cc%7C&abl=NS&ppjl=u&pfx=0&srr=1&fu=16&bc=1&ifi=1&dtd=450. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9041987464336118&output=html&h=400&slotname=9067499928&adk=3020498260&w=240&ea=0&flash=0&url=http%3A%2F%2Fwww.sports.ru%2Ffantasy%2Ffootball%2Fteam%2Fpoints%2F1557043.html&wgl=0&dt=1442691626064&bpp=17&shv=r20150915&cbv=r20150820&saldr=sa&correlator=180504700929&frm=24&ga_vid=2019471821.1442691627&ga_sid=1442691627&ga_hid=163026462&ga_fc=0&pv=2&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=768&u_aw=1303&u_cd=32&u_nplug=0&u_nmime=0&dff=times%20new%20roman&dfs=16&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=240&ish=400&ifk=1181265659&eid=575144605%2C317150304&oid=3&rx=0&eae=6&jp=2&brdim=0%2C0%2C0%2C0%2C1303%2C0%2C0%2C0%2C240%2C400&vis=0&rsz=%7C%7Cc%7C&abl=NS&ppjl=u&pfx=0&srr=1&fu=16&bc=1&ifi=1&dtd=450. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9041987464336118&output=html&h=400&slotname=9067499928&adk=3020498260&w=240&ea=0&flash=0&url=http%3A%2F%2Fwww.sports.ru%2Ffantasy%2Ffootball%2Fteam%2Fpoints%2F1557043.html&wgl=0&dt=1442691626064&bpp=17&shv=r20150915&cbv=r20150820&saldr=sa&correlator=180504700929&frm=24&ga_vid=2019471821.1442691627&ga_sid=1442691627&ga_hid=163026462&ga_fc=0&pv=2&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=768&u_aw=1303&u_cd=32&u_nplug=0&u_nmime=0&dff=times%20new%20roman&dfs=16&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=240&ish=400&ifk=1181265659&eid=575144605%2C317150304&oid=3&rx=0&eae=6&jp=2&brdim=0%2C0%2C0%2C0%2C1303%2C0%2C0%2C0%2C240%2C400&vis=0&rsz=%7C%7Cc%7C&abl=NS&ppjl=u&pfx=0&srr=1&fu=16&bc=1&ifi=1&dtd=450. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html from frame with URL https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9041987464336118&output=html&h=400&slotname=9067499928&adk=3020498260&w=240&ea=0&flash=0&url=http%3A%2F%2Fwww.sports.ru%2Ffantasy%2Ffootball%2Fteam%2Fpoints%2F1557043.html&wgl=0&dt=1442691626064&bpp=17&shv=r20150915&cbv=r20150820&saldr=sa&correlator=180504700929&frm=24&ga_vid=2019471821.1442691627&ga_sid=1442691627&ga_hid=163026462&ga_fc=0&pv=2&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=768&u_aw=1303&u_cd=32&u_nplug=0&u_nmime=0&dff=times%20new%20roman&dfs=16&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=240&ish=400&ifk=1181265659&eid=575144605%2C317150304&oid=3&rx=0&eae=6&jp=2&brdim=0%2C0%2C0%2C0%2C1303%2C0%2C0%2C0%2C240%2C400&vis=0&rsz=%7C%7Cc%7C&abl=NS&ppjl=u&pfx=0&srr=1&fu=16&bc=1&ifi=1&dtd=450. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557043.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Васкес - 0
+--------------------
+ymat - 0
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1559624.html from frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1559624.html from frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1559624.html from frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1559624.html from frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1559624.html from frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1559624.html from frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://awaps.yandex.ru/0/9947/001001.htm from frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1559624.html from frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1559624.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1559624.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1559624.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1559624.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1559624.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1559624.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1559624.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1559624.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1559624.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1559624.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1559624.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1559624.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1559624.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1559624.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1559624.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1559624.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1559624.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1559624.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1559624.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1559624.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1559624.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1559624.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1559624.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1559624.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1559624.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1559624.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1559624.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1559624.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1559624.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1559624.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1559624.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1559624.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1559624.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1559624.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1559624.html from frame with URL about:blank. Domains, protocols and ports must match.
 
 Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL about:blank. Domains, protocols and ports must match.
 
@@ -219,55 +289,231 @@ Unsafe JavaScript attempt to access frame with URL about:blank from frame with U
 
 Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://ls.hit.gemius.pl/lsget.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1559624.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1559624.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1559624.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1559624.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1559624.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1559624.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1559624.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1559624.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9041987464336118&output=html&h=400&slotname=9067499928&adk=3020498260&w=240&ea=0&flash=0&url=http%3A%2F%2Fwww.sports.ru%2Ffantasy%2Ffootball%2Fteam%2Fpoints%2F1559624.html&wgl=0&dt=1442691632926&bpp=25&shv=r20150915&cbv=r20150820&saldr=sa&correlator=2031959252993&frm=24&ga_vid=891094291.1442691633&ga_sid=1442691633&ga_hid=1645356657&ga_fc=0&pv=2&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=768&u_aw=1303&u_cd=32&u_nplug=0&u_nmime=0&dff=times%20new%20roman&dfs=16&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=240&ish=400&ifk=3038689723&eid=575144605%2C317150304%2C4087315&oid=3&rx=0&eae=6&jp=2&brdim=0%2C0%2C0%2C0%2C1303%2C0%2C0%2C0%2C240%2C400&vis=0&rsz=%7C%7Cc%7C&abl=NS&ppjl=u&pfx=0&srr=1&fu=16&bc=1&ifi=1&dtd=345. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9041987464336118&output=html&h=400&slotname=9067499928&adk=3020498260&w=240&ea=0&flash=0&url=http%3A%2F%2Fwww.sports.ru%2Ffantasy%2Ffootball%2Fteam%2Fpoints%2F1559624.html&wgl=0&dt=1442691632926&bpp=25&shv=r20150915&cbv=r20150820&saldr=sa&correlator=2031959252993&frm=24&ga_vid=891094291.1442691633&ga_sid=1442691633&ga_hid=1645356657&ga_fc=0&pv=2&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=768&u_aw=1303&u_cd=32&u_nplug=0&u_nmime=0&dff=times%20new%20roman&dfs=16&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=240&ish=400&ifk=3038689723&eid=575144605%2C317150304%2C4087315&oid=3&rx=0&eae=6&jp=2&brdim=0%2C0%2C0%2C0%2C1303%2C0%2C0%2C0%2C240%2C400&vis=0&rsz=%7C%7Cc%7C&abl=NS&ppjl=u&pfx=0&srr=1&fu=16&bc=1&ifi=1&dtd=345. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html from frame with URL https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9041987464336118&output=html&h=400&slotname=9067499928&adk=3020498260&w=240&ea=0&flash=0&url=http%3A%2F%2Fwww.sports.ru%2Ffantasy%2Ffootball%2Fteam%2Fpoints%2F1559624.html&wgl=0&dt=1442691632926&bpp=25&shv=r20150915&cbv=r20150820&saldr=sa&correlator=2031959252993&frm=24&ga_vid=891094291.1442691633&ga_sid=1442691633&ga_hid=1645356657&ga_fc=0&pv=2&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=768&u_aw=1303&u_cd=32&u_nplug=0&u_nmime=0&dff=times%20new%20roman&dfs=16&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=240&ish=400&ifk=3038689723&eid=575144605%2C317150304%2C4087315&oid=3&rx=0&eae=6&jp=2&brdim=0%2C0%2C0%2C0%2C1303%2C0%2C0%2C0%2C240%2C400&vis=0&rsz=%7C%7Cc%7C&abl=NS&ppjl=u&pfx=0&srr=1&fu=16&bc=1&ifi=1&dtd=345. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1559624.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1559624.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1559624.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9041987464336118&output=html&h=90&slotname=3957597168&adk=1552024901&w=728&ea=0&flash=0&url=http%3A%2F%2Fwww.sports.ru%2Ffantasy%2Ffootball%2Fteam%2Fpoints%2F1562633.html&wgl=0&dt=1442691591453&bpp=24&shv=r20150915&cbv=r20150820&saldr=sa&correlator=240205117441&frm=24&ga_vid=781872088.1442691592&ga_sid=1442691592&ga_hid=1025341183&ga_fc=0&pv=2&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=768&u_aw=1303&u_cd=32&u_nplug=0&u_nmime=0&dff=times%20new%20roman&dfs=16&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=728&ish=90&ifk=1905437334&eid=575144605%2C317150304&oid=3&rx=0&eae=6&jp=2&brdim=0%2C0%2C0%2C0%2C1303%2C0%2C0%2C0%2C728%2C90&vis=0&rsz=%7C%7Cc%7C&abl=NS&ppjl=u&pfx=0&srr=1&fu=16&bc=1&ifi=1&dtd=906. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1559624.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9041987464336118&output=html&h=90&slotname=3957597168&adk=1552024901&w=728&ea=0&flash=0&url=http%3A%2F%2Fwww.sports.ru%2Ffantasy%2Ffootball%2Fteam%2Fpoints%2F1562633.html&wgl=0&dt=1442691591453&bpp=24&shv=r20150915&cbv=r20150820&saldr=sa&correlator=240205117441&frm=24&ga_vid=781872088.1442691592&ga_sid=1442691592&ga_hid=1025341183&ga_fc=0&pv=2&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=768&u_aw=1303&u_cd=32&u_nplug=0&u_nmime=0&dff=times%20new%20roman&dfs=16&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=728&ish=90&ifk=1905437334&eid=575144605%2C317150304&oid=3&rx=0&eae=6&jp=2&brdim=0%2C0%2C0%2C0%2C1303%2C0%2C0%2C0%2C728%2C90&vis=0&rsz=%7C%7Cc%7C&abl=NS&ppjl=u&pfx=0&srr=1&fu=16&bc=1&ifi=1&dtd=906. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1559624.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://content.adfox.ru/150716/adfox/411919/1322722_1.html from frame with URL https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9041987464336118&output=html&h=90&slotname=3957597168&adk=1552024901&w=728&ea=0&flash=0&url=http%3A%2F%2Fwww.sports.ru%2Ffantasy%2Ffootball%2Fteam%2Fpoints%2F1562633.html&wgl=0&dt=1442691591453&bpp=24&shv=r20150915&cbv=r20150820&saldr=sa&correlator=240205117441&frm=24&ga_vid=781872088.1442691592&ga_sid=1442691592&ga_hid=1025341183&ga_fc=0&pv=2&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=768&u_aw=1303&u_cd=32&u_nplug=0&u_nmime=0&dff=times%20new%20roman&dfs=16&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=728&ish=90&ifk=1905437334&eid=575144605%2C317150304&oid=3&rx=0&eae=6&jp=2&brdim=0%2C0%2C0%2C0%2C1303%2C0%2C0%2C0%2C728%2C90&vis=0&rsz=%7C%7Cc%7C&abl=NS&ppjl=u&pfx=0&srr=1&fu=16&bc=1&ifi=1&dtd=906. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9041987464336118&output=html&h=400&slotname=9067499928&adk=3020498260&w=240&ea=0&flash=0&url=http%3A%2F%2Fwww.sports.ru%2Ffantasy%2Ffootball%2Fteam%2Fpoints%2F1559624.html&wgl=0&dt=1442691632926&bpp=25&shv=r20150915&cbv=r20150820&saldr=sa&correlator=2031959252993&frm=24&ga_vid=891094291.1442691633&ga_sid=1442691633&ga_hid=1645356657&ga_fc=0&pv=2&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=768&u_aw=1303&u_cd=32&u_nplug=0&u_nmime=0&dff=times%20new%20roman&dfs=16&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=240&ish=400&ifk=3038689723&eid=575144605%2C317150304%2C4087315&oid=3&rx=0&eae=6&jp=2&brdim=0%2C0%2C0%2C0%2C1303%2C0%2C0%2C0%2C240%2C400&vis=0&rsz=%7C%7Cc%7C&abl=NS&ppjl=u&pfx=0&srr=1&fu=16&bc=1&ifi=1&dtd=345. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9041987464336118&output=html&h=400&slotname=9067499928&adk=3020498260&w=240&ea=0&flash=0&url=http%3A%2F%2Fwww.sports.ru%2Ffantasy%2Ffootball%2Fteam%2Fpoints%2F1559624.html&wgl=0&dt=1442691632926&bpp=25&shv=r20150915&cbv=r20150820&saldr=sa&correlator=2031959252993&frm=24&ga_vid=891094291.1442691633&ga_sid=1442691633&ga_hid=1645356657&ga_fc=0&pv=2&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=768&u_aw=1303&u_cd=32&u_nplug=0&u_nmime=0&dff=times%20new%20roman&dfs=16&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=240&ish=400&ifk=3038689723&eid=575144605%2C317150304%2C4087315&oid=3&rx=0&eae=6&jp=2&brdim=0%2C0%2C0%2C0%2C1303%2C0%2C0%2C0%2C240%2C400&vis=0&rsz=%7C%7Cc%7C&abl=NS&ppjl=u&pfx=0&srr=1&fu=16&bc=1&ifi=1&dtd=345. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html from frame with URL https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9041987464336118&output=html&h=400&slotname=9067499928&adk=3020498260&w=240&ea=0&flash=0&url=http%3A%2F%2Fwww.sports.ru%2Ffantasy%2Ffootball%2Fteam%2Fpoints%2F1559624.html&wgl=0&dt=1442691632926&bpp=25&shv=r20150915&cbv=r20150820&saldr=sa&correlator=2031959252993&frm=24&ga_vid=891094291.1442691633&ga_sid=1442691633&ga_hid=1645356657&ga_fc=0&pv=2&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=768&u_aw=1303&u_cd=32&u_nplug=0&u_nmime=0&dff=times%20new%20roman&dfs=16&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=240&ish=400&ifk=3038689723&eid=575144605%2C317150304%2C4087315&oid=3&rx=0&eae=6&jp=2&brdim=0%2C0%2C0%2C0%2C1303%2C0%2C0%2C0%2C240%2C400&vis=0&rsz=%7C%7Cc%7C&abl=NS&ppjl=u&pfx=0&srr=1&fu=16&bc=1&ifi=1&dtd=345. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9041987464336118&output=html&h=400&slotname=9067499928&adk=3020498260&w=240&ea=0&flash=0&url=http%3A%2F%2Fwww.sports.ru%2Ffantasy%2Ffootball%2Fteam%2Fpoints%2F1562633.html&wgl=0&dt=1442691592040&bpp=38&shv=r20150915&cbv=r20150820&saldr=sa&correlator=4535498864641&frm=24&ga_vid=481216946.1442691593&ga_sid=1442691593&ga_hid=446727329&ga_fc=0&pv=2&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=768&u_aw=1303&u_cd=32&u_nplug=0&u_nmime=0&dff=times%20new%20roman&dfs=16&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=240&ish=400&ifk=2654720366&eid=575144605%2C317150304&oid=3&rx=0&eae=6&jp=2&brdim=0%2C0%2C0%2C0%2C1303%2C0%2C0%2C0%2C240%2C400&vis=0&rsz=%7C%7Cc%7C&abl=NS&ppjl=u&pfx=0&fu=16&bc=1&ifi=1&dtd=500. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1559624.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9041987464336118&output=html&h=400&slotname=9067499928&adk=3020498260&w=240&ea=0&flash=0&url=http%3A%2F%2Fwww.sports.ru%2Ffantasy%2Ffootball%2Fteam%2Fpoints%2F1562633.html&wgl=0&dt=1442691592040&bpp=38&shv=r20150915&cbv=r20150820&saldr=sa&correlator=4535498864641&frm=24&ga_vid=481216946.1442691593&ga_sid=1442691593&ga_hid=446727329&ga_fc=0&pv=2&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=768&u_aw=1303&u_cd=32&u_nplug=0&u_nmime=0&dff=times%20new%20roman&dfs=16&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=240&ish=400&ifk=2654720366&eid=575144605%2C317150304&oid=3&rx=0&eae=6&jp=2&brdim=0%2C0%2C0%2C0%2C1303%2C0%2C0%2C0%2C240%2C400&vis=0&rsz=%7C%7Cc%7C&abl=NS&ppjl=u&pfx=0&fu=16&bc=1&ifi=1&dtd=500. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1559624.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html from frame with URL https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9041987464336118&output=html&h=400&slotname=9067499928&adk=3020498260&w=240&ea=0&flash=0&url=http%3A%2F%2Fwww.sports.ru%2Ffantasy%2Ffootball%2Fteam%2Fpoints%2F1562633.html&wgl=0&dt=1442691592040&bpp=38&shv=r20150915&cbv=r20150820&saldr=sa&correlator=4535498864641&frm=24&ga_vid=481216946.1442691593&ga_sid=1442691593&ga_hid=446727329&ga_fc=0&pv=2&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=768&u_aw=1303&u_cd=32&u_nplug=0&u_nmime=0&dff=times%20new%20roman&dfs=16&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=240&ish=400&ifk=2654720366&eid=575144605%2C317150304&oid=3&rx=0&eae=6&jp=2&brdim=0%2C0%2C0%2C0%2C1303%2C0%2C0%2C0%2C240%2C400&vis=0&rsz=%7C%7Cc%7C&abl=NS&ppjl=u&pfx=0&fu=16&bc=1&ifi=1&dtd=500. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1559624.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1559624.html from frame with URL about:blank. Domains, protocols and ports must match.
 
-Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1562633.html from frame with URL about:blank. Domains, protocols and ports must match.
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1559624.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9041987464336118&output=html&h=400&slotname=9067499928&adk=3020498260&w=240&ea=0&flash=0&url=http%3A%2F%2Fwww.sports.ru%2Ffantasy%2Ffootball%2Fteam%2Fpoints%2F1559624.html&wgl=0&dt=1442691632926&bpp=25&shv=r20150915&cbv=r20150820&saldr=sa&correlator=2031959252993&frm=24&ga_vid=891094291.1442691633&ga_sid=1442691633&ga_hid=1645356657&ga_fc=0&pv=2&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=768&u_aw=1303&u_cd=32&u_nplug=0&u_nmime=0&dff=times%20new%20roman&dfs=16&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=240&ish=400&ifk=3038689723&eid=575144605%2C317150304%2C4087315&oid=3&rx=0&eae=6&jp=2&brdim=0%2C0%2C0%2C0%2C1303%2C0%2C0%2C0%2C240%2C400&vis=0&rsz=%7C%7Cc%7C&abl=NS&ppjl=u&pfx=0&srr=1&fu=16&bc=1&ifi=1&dtd=345. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9041987464336118&output=html&h=400&slotname=9067499928&adk=3020498260&w=240&ea=0&flash=0&url=http%3A%2F%2Fwww.sports.ru%2Ffantasy%2Ffootball%2Fteam%2Fpoints%2F1559624.html&wgl=0&dt=1442691632926&bpp=25&shv=r20150915&cbv=r20150820&saldr=sa&correlator=2031959252993&frm=24&ga_vid=891094291.1442691633&ga_sid=1442691633&ga_hid=1645356657&ga_fc=0&pv=2&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=768&u_aw=1303&u_cd=32&u_nplug=0&u_nmime=0&dff=times%20new%20roman&dfs=16&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=240&ish=400&ifk=3038689723&eid=575144605%2C317150304%2C4087315&oid=3&rx=0&eae=6&jp=2&brdim=0%2C0%2C0%2C0%2C1303%2C0%2C0%2C0%2C240%2C400&vis=0&rsz=%7C%7Cc%7C&abl=NS&ppjl=u&pfx=0&srr=1&fu=16&bc=1&ifi=1&dtd=345. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html from frame with URL https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9041987464336118&output=html&h=400&slotname=9067499928&adk=3020498260&w=240&ea=0&flash=0&url=http%3A%2F%2Fwww.sports.ru%2Ffantasy%2Ffootball%2Fteam%2Fpoints%2F1559624.html&wgl=0&dt=1442691632926&bpp=25&shv=r20150915&cbv=r20150820&saldr=sa&correlator=2031959252993&frm=24&ga_vid=891094291.1442691633&ga_sid=1442691633&ga_hid=1645356657&ga_fc=0&pv=2&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=768&u_aw=1303&u_cd=32&u_nplug=0&u_nmime=0&dff=times%20new%20roman&dfs=16&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=240&ish=400&ifk=3038689723&eid=575144605%2C317150304%2C4087315&oid=3&rx=0&eae=6&jp=2&brdim=0%2C0%2C0%2C0%2C1303%2C0%2C0%2C0%2C240%2C400&vis=0&rsz=%7C%7Cc%7C&abl=NS&ppjl=u&pfx=0&srr=1&fu=16&bc=1&ifi=1&dtd=345. Domains, protocols and ports must match.
+
+Бакка - 4
+Бонавенту... - 8
+Сапонара - 5
+Скорупски - 2
+--------------------
+xheo - 19
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1558719.html from frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1558719.html from frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1558719.html from frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1558719.html from frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1558719.html from frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1558719.html from frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://awaps.yandex.ru/0/9947/001001.htm from frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1558719.html from frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1558719.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1558719.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1558719.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1558719.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1558719.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1558719.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1558719.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1558719.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1558719.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1558719.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1558719.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1558719.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1558719.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1558719.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1558719.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1558719.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1558719.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1558719.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1558719.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1558719.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1558719.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1558719.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1558719.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1558719.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1558719.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1558719.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1558719.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1558719.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1558719.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1558719.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1558719.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1558719.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1558719.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1558719.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1558719.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://awaps.yandex.ru/0/9947/001001.htm from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1558719.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1558719.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1558719.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1558719.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1558719.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1558719.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1558719.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1558719.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9041987464336118&output=html&h=400&slotname=9067499928&adk=3020498260&w=240&ea=0&flash=0&url=http%3A%2F%2Fwww.sports.ru%2Ffantasy%2Ffootball%2Fteam%2Fpoints%2F1558719.html&wgl=0&dt=1442691639350&bpp=14&shv=r20150915&cbv=r20150820&saldr=sa&correlator=1521156028417&frm=24&ga_vid=2008435154.1442691640&ga_sid=1442691640&ga_hid=2146529470&ga_fc=0&pv=2&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=768&u_aw=1303&u_cd=32&u_nplug=0&u_nmime=0&dff=times%20new%20roman&dfs=16&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=240&ish=400&ifk=2682845721&eid=575144605%2C317150304%2C4087316&oid=3&rx=0&eae=6&jp=2&brdim=0%2C0%2C0%2C0%2C1303%2C0%2C0%2C0%2C240%2C400&vis=0&rsz=%7C%7Cc%7C&abl=NS&ppjl=u&pfx=0&srr=1&fu=16&bc=1&ifi=1&dtd=397. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9041987464336118&output=html&h=400&slotname=9067499928&adk=3020498260&w=240&ea=0&flash=0&url=http%3A%2F%2Fwww.sports.ru%2Ffantasy%2Ffootball%2Fteam%2Fpoints%2F1558719.html&wgl=0&dt=1442691639350&bpp=14&shv=r20150915&cbv=r20150820&saldr=sa&correlator=1521156028417&frm=24&ga_vid=2008435154.1442691640&ga_sid=1442691640&ga_hid=2146529470&ga_fc=0&pv=2&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=768&u_aw=1303&u_cd=32&u_nplug=0&u_nmime=0&dff=times%20new%20roman&dfs=16&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=240&ish=400&ifk=2682845721&eid=575144605%2C317150304%2C4087316&oid=3&rx=0&eae=6&jp=2&brdim=0%2C0%2C0%2C0%2C1303%2C0%2C0%2C0%2C240%2C400&vis=0&rsz=%7C%7Cc%7C&abl=NS&ppjl=u&pfx=0&srr=1&fu=16&bc=1&ifi=1&dtd=397. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html from frame with URL https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9041987464336118&output=html&h=400&slotname=9067499928&adk=3020498260&w=240&ea=0&flash=0&url=http%3A%2F%2Fwww.sports.ru%2Ffantasy%2Ffootball%2Fteam%2Fpoints%2F1558719.html&wgl=0&dt=1442691639350&bpp=14&shv=r20150915&cbv=r20150820&saldr=sa&correlator=1521156028417&frm=24&ga_vid=2008435154.1442691640&ga_sid=1442691640&ga_hid=2146529470&ga_fc=0&pv=2&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=768&u_aw=1303&u_cd=32&u_nplug=0&u_nmime=0&dff=times%20new%20roman&dfs=16&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=240&ish=400&ifk=2682845721&eid=575144605%2C317150304%2C4087316&oid=3&rx=0&eae=6&jp=2&brdim=0%2C0%2C0%2C0%2C1303%2C0%2C0%2C0%2C240%2C400&vis=0&rsz=%7C%7Cc%7C&abl=NS&ppjl=u&pfx=0&srr=1&fu=16&bc=1&ifi=1&dtd=397. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1558719.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1558719.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1558719.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1558719.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1558719.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9041987464336118&output=html&h=400&slotname=9067499928&adk=3020498260&w=240&ea=0&flash=0&url=http%3A%2F%2Fwww.sports.ru%2Ffantasy%2Ffootball%2Fteam%2Fpoints%2F1558719.html&wgl=0&dt=1442691639350&bpp=14&shv=r20150915&cbv=r20150820&saldr=sa&correlator=1521156028417&frm=24&ga_vid=2008435154.1442691640&ga_sid=1442691640&ga_hid=2146529470&ga_fc=0&pv=2&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=768&u_aw=1303&u_cd=32&u_nplug=0&u_nmime=0&dff=times%20new%20roman&dfs=16&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=240&ish=400&ifk=2682845721&eid=575144605%2C317150304%2C4087316&oid=3&rx=0&eae=6&jp=2&brdim=0%2C0%2C0%2C0%2C1303%2C0%2C0%2C0%2C240%2C400&vis=0&rsz=%7C%7Cc%7C&abl=NS&ppjl=u&pfx=0&srr=1&fu=16&bc=1&ifi=1&dtd=397. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9041987464336118&output=html&h=400&slotname=9067499928&adk=3020498260&w=240&ea=0&flash=0&url=http%3A%2F%2Fwww.sports.ru%2Ffantasy%2Ffootball%2Fteam%2Fpoints%2F1558719.html&wgl=0&dt=1442691639350&bpp=14&shv=r20150915&cbv=r20150820&saldr=sa&correlator=1521156028417&frm=24&ga_vid=2008435154.1442691640&ga_sid=1442691640&ga_hid=2146529470&ga_fc=0&pv=2&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=768&u_aw=1303&u_cd=32&u_nplug=0&u_nmime=0&dff=times%20new%20roman&dfs=16&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=240&ish=400&ifk=2682845721&eid=575144605%2C317150304%2C4087316&oid=3&rx=0&eae=6&jp=2&brdim=0%2C0%2C0%2C0%2C1303%2C0%2C0%2C0%2C240%2C400&vis=0&rsz=%7C%7Cc%7C&abl=NS&ppjl=u&pfx=0&srr=1&fu=16&bc=1&ifi=1&dtd=397. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html from frame with URL https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9041987464336118&output=html&h=400&slotname=9067499928&adk=3020498260&w=240&ea=0&flash=0&url=http%3A%2F%2Fwww.sports.ru%2Ffantasy%2Ffootball%2Fteam%2Fpoints%2F1558719.html&wgl=0&dt=1442691639350&bpp=14&shv=r20150915&cbv=r20150820&saldr=sa&correlator=1521156028417&frm=24&ga_vid=2008435154.1442691640&ga_sid=1442691640&ga_hid=2146529470&ga_fc=0&pv=2&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=768&u_aw=1303&u_cd=32&u_nplug=0&u_nmime=0&dff=times%20new%20roman&dfs=16&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=240&ish=400&ifk=2682845721&eid=575144605%2C317150304%2C4087316&oid=3&rx=0&eae=6&jp=2&brdim=0%2C0%2C0%2C0%2C1303%2C0%2C0%2C0%2C240%2C400&vis=0&rsz=%7C%7Cc%7C&abl=NS&ppjl=u&pfx=0&srr=1&fu=16&bc=1&ifi=1&dtd=397. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9041987464336118&output=html&h=400&slotname=9067499928&adk=3020498260&w=240&ea=0&flash=0&url=http%3A%2F%2Fwww.sports.ru%2Ffantasy%2Ffootball%2Fteam%2Fpoints%2F1558719.html&wgl=0&dt=1442691639350&bpp=14&shv=r20150915&cbv=r20150820&saldr=sa&correlator=1521156028417&frm=24&ga_vid=2008435154.1442691640&ga_sid=1442691640&ga_hid=2146529470&ga_fc=0&pv=2&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=768&u_aw=1303&u_cd=32&u_nplug=0&u_nmime=0&dff=times%20new%20roman&dfs=16&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=240&ish=400&ifk=2682845721&eid=575144605%2C317150304%2C4087316&oid=3&rx=0&eae=6&jp=2&brdim=0%2C0%2C0%2C0%2C1303%2C0%2C0%2C0%2C240%2C400&vis=0&rsz=%7C%7Cc%7C&abl=NS&ppjl=u&pfx=0&srr=1&fu=16&bc=1&ifi=1&dtd=397. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1558719.html from frame with URL https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9041987464336118&output=html&h=400&slotname=9067499928&adk=3020498260&w=240&ea=0&flash=0&url=http%3A%2F%2Fwww.sports.ru%2Ffantasy%2Ffootball%2Fteam%2Fpoints%2F1558719.html&wgl=0&dt=1442691639350&bpp=14&shv=r20150915&cbv=r20150820&saldr=sa&correlator=1521156028417&frm=24&ga_vid=2008435154.1442691640&ga_sid=1442691640&ga_hid=2146529470&ga_fc=0&pv=2&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=768&u_aw=1303&u_cd=32&u_nplug=0&u_nmime=0&dff=times%20new%20roman&dfs=16&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=240&ish=400&ifk=2682845721&eid=575144605%2C317150304%2C4087316&oid=3&rx=0&eae=6&jp=2&brdim=0%2C0%2C0%2C0%2C1303%2C0%2C0%2C0%2C240%2C400&vis=0&rsz=%7C%7Cc%7C&abl=NS&ppjl=u&pfx=0&srr=1&fu=16&bc=1&ifi=1&dtd=397. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1558719.html from frame with URL https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9041987464336118&output=html&h=400&slotname=9067499928&adk=3020498260&w=240&ea=0&flash=0&url=http%3A%2F%2Fwww.sports.ru%2Ffantasy%2Ffootball%2Fteam%2Fpoints%2F1558719.html&wgl=0&dt=1442691639350&bpp=14&shv=r20150915&cbv=r20150820&saldr=sa&correlator=1521156028417&frm=24&ga_vid=2008435154.1442691640&ga_sid=1442691640&ga_hid=2146529470&ga_fc=0&pv=2&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=768&u_aw=1303&u_cd=32&u_nplug=0&u_nmime=0&dff=times%20new%20roman&dfs=16&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=240&ish=400&ifk=2682845721&eid=575144605%2C317150304%2C4087316&oid=3&rx=0&eae=6&jp=2&brdim=0%2C0%2C0%2C0%2C1303%2C0%2C0%2C0%2C240%2C400&vis=0&rsz=%7C%7Cc%7C&abl=NS&ppjl=u&pfx=0&srr=1&fu=16&bc=1&ifi=1&dtd=397. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9041987464336118&output=html&h=400&slotname=9067499928&adk=3020498260&w=240&ea=0&flash=0&url=http%3A%2F%2Fwww.sports.ru%2Ffantasy%2Ffootball%2Fteam%2Fpoints%2F1558719.html&wgl=0&dt=1442691639350&bpp=14&shv=r20150915&cbv=r20150820&saldr=sa&correlator=1521156028417&frm=24&ga_vid=2008435154.1442691640&ga_sid=1442691640&ga_hid=2146529470&ga_fc=0&pv=2&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=768&u_aw=1303&u_cd=32&u_nplug=0&u_nmime=0&dff=times%20new%20roman&dfs=16&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=240&ish=400&ifk=2682845721&eid=575144605%2C317150304%2C4087316&oid=3&rx=0&eae=6&jp=2&brdim=0%2C0%2C0%2C0%2C1303%2C0%2C0%2C0%2C240%2C400&vis=0&rsz=%7C%7Cc%7C&abl=NS&ppjl=u&pfx=0&srr=1&fu=16&bc=1&ifi=1&dtd=397. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9041987464336118&output=html&h=400&slotname=9067499928&adk=3020498260&w=240&ea=0&flash=0&url=http%3A%2F%2Fwww.sports.ru%2Ffantasy%2Ffootball%2Fteam%2Fpoints%2F1558719.html&wgl=0&dt=1442691639350&bpp=14&shv=r20150915&cbv=r20150820&saldr=sa&correlator=1521156028417&frm=24&ga_vid=2008435154.1442691640&ga_sid=1442691640&ga_hid=2146529470&ga_fc=0&pv=2&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=768&u_aw=1303&u_cd=32&u_nplug=0&u_nmime=0&dff=times%20new%20roman&dfs=16&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=240&ish=400&ifk=2682845721&eid=575144605%2C317150304%2C4087316&oid=3&rx=0&eae=6&jp=2&brdim=0%2C0%2C0%2C0%2C1303%2C0%2C0%2C0%2C240%2C400&vis=0&rsz=%7C%7Cc%7C&abl=NS&ppjl=u&pfx=0&srr=1&fu=16&bc=1&ifi=1&dtd=397. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html from frame with URL https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9041987464336118&output=html&h=400&slotname=9067499928&adk=3020498260&w=240&ea=0&flash=0&url=http%3A%2F%2Fwww.sports.ru%2Ffantasy%2Ffootball%2Fteam%2Fpoints%2F1558719.html&wgl=0&dt=1442691639350&bpp=14&shv=r20150915&cbv=r20150820&saldr=sa&correlator=1521156028417&frm=24&ga_vid=2008435154.1442691640&ga_sid=1442691640&ga_hid=2146529470&ga_fc=0&pv=2&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=768&u_aw=1303&u_cd=32&u_nplug=0&u_nmime=0&dff=times%20new%20roman&dfs=16&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=240&ish=400&ifk=2682845721&eid=575144605%2C317150304%2C4087316&oid=3&rx=0&eae=6&jp=2&brdim=0%2C0%2C0%2C0%2C1303%2C0%2C0%2C0%2C240%2C400&vis=0&rsz=%7C%7Cc%7C&abl=NS&ppjl=u&pfx=0&srr=1&fu=16&bc=1&ifi=1&dtd=397. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1558719.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1558719.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1558719.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1558719.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+--------------------
+busotir - 0
 
 Васкес - 0
 Хонда - 0
@@ -275,6 +521,312 @@ Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/
 Эль-Каута... - 0
 --------------------
 cron314 - 0
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL http://content.adfox.ru/150716/adfox/411919/1322722_1.html. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL http://content.adfox.ru/150716/adfox/411919/1322722_1.html. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL http://content.adfox.ru/150716/adfox/411919/1322722_1.html. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL http://content.adfox.ru/150716/adfox/411919/1322722_1.html. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL http://content.adfox.ru/150716/adfox/411919/1322722_1.html. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL http://content.adfox.ru/150716/adfox/411919/1322722_1.html. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL http://content.adfox.ru/150716/adfox/411919/1322722_1.html. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://awaps.yandex.ru/0/9947/001001.htm from frame with URL http://content.adfox.ru/150716/adfox/411919/1322722_1.html. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL http://content.adfox.ru/150716/adfox/411919/1322722_1.html. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL http://content.adfox.ru/150716/adfox/411919/1322722_1.html. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL http://content.adfox.ru/150716/adfox/411919/1322722_1.html. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL http://content.adfox.ru/150716/adfox/411919/1322722_1.html. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL http://content.adfox.ru/150716/adfox/411919/1322722_1.html. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://awaps.yandex.ru/0/9947/001001.htm from frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://awaps.yandex.ru/0/9947/001001.htm from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://awaps.yandex.ru/0/9947/001001.htm from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9041987464336118&output=html&h=400&slotname=9067499928&adk=3020498260&w=240&ea=0&flash=0&url=http%3A%2F%2Fwww.sports.ru%2Ffantasy%2Ffootball%2Fteam%2Fpoints%2F1557039.html&wgl=0&dt=1442691650366&bpp=14&shv=r20150915&cbv=r20150820&saldr=sa&correlator=1738187917313&frm=24&ga_vid=1936462981.1442691650&ga_sid=1442691650&ga_hid=734795646&ga_fc=0&pv=2&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=768&u_aw=1303&u_cd=32&u_nplug=0&u_nmime=0&dff=times%20new%20roman&dfs=16&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=240&ish=400&ifk=3006344621&eid=575144605%2C317150304&oid=3&rx=0&eae=6&jp=2&brdim=0%2C0%2C0%2C0%2C1303%2C0%2C0%2C0%2C240%2C400&vis=0&rsz=%7C%7Cc%7C&abl=NS&ppjl=u&pfx=0&fu=16&bc=1&ifi=1&dtd=226. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9041987464336118&output=html&h=400&slotname=9067499928&adk=3020498260&w=240&ea=0&flash=0&url=http%3A%2F%2Fwww.sports.ru%2Ffantasy%2Ffootball%2Fteam%2Fpoints%2F1557039.html&wgl=0&dt=1442691650366&bpp=14&shv=r20150915&cbv=r20150820&saldr=sa&correlator=1738187917313&frm=24&ga_vid=1936462981.1442691650&ga_sid=1442691650&ga_hid=734795646&ga_fc=0&pv=2&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=768&u_aw=1303&u_cd=32&u_nplug=0&u_nmime=0&dff=times%20new%20roman&dfs=16&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=240&ish=400&ifk=3006344621&eid=575144605%2C317150304&oid=3&rx=0&eae=6&jp=2&brdim=0%2C0%2C0%2C0%2C1303%2C0%2C0%2C0%2C240%2C400&vis=0&rsz=%7C%7Cc%7C&abl=NS&ppjl=u&pfx=0&fu=16&bc=1&ifi=1&dtd=226. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html from frame with URL https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9041987464336118&output=html&h=400&slotname=9067499928&adk=3020498260&w=240&ea=0&flash=0&url=http%3A%2F%2Fwww.sports.ru%2Ffantasy%2Ffootball%2Fteam%2Fpoints%2F1557039.html&wgl=0&dt=1442691650366&bpp=14&shv=r20150915&cbv=r20150820&saldr=sa&correlator=1738187917313&frm=24&ga_vid=1936462981.1442691650&ga_sid=1442691650&ga_hid=734795646&ga_fc=0&pv=2&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=768&u_aw=1303&u_cd=32&u_nplug=0&u_nmime=0&dff=times%20new%20roman&dfs=16&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=240&ish=400&ifk=3006344621&eid=575144605%2C317150304&oid=3&rx=0&eae=6&jp=2&brdim=0%2C0%2C0%2C0%2C1303%2C0%2C0%2C0%2C240%2C400&vis=0&rsz=%7C%7Cc%7C&abl=NS&ppjl=u&pfx=0&fu=16&bc=1&ifi=1&dtd=226. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9041987464336118&output=html&h=400&slotname=9067499928&adk=3020498260&w=240&ea=0&flash=0&url=http%3A%2F%2Fwww.sports.ru%2Ffantasy%2Ffootball%2Fteam%2Fpoints%2F1557039.html&wgl=0&dt=1442691650366&bpp=14&shv=r20150915&cbv=r20150820&saldr=sa&correlator=1738187917313&frm=24&ga_vid=1936462981.1442691650&ga_sid=1442691650&ga_hid=734795646&ga_fc=0&pv=2&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=768&u_aw=1303&u_cd=32&u_nplug=0&u_nmime=0&dff=times%20new%20roman&dfs=16&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=240&ish=400&ifk=3006344621&eid=575144605%2C317150304&oid=3&rx=0&eae=6&jp=2&brdim=0%2C0%2C0%2C0%2C1303%2C0%2C0%2C0%2C240%2C400&vis=0&rsz=%7C%7Cc%7C&abl=NS&ppjl=u&pfx=0&fu=16&bc=1&ifi=1&dtd=226. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9041987464336118&output=html&h=400&slotname=9067499928&adk=3020498260&w=240&ea=0&flash=0&url=http%3A%2F%2Fwww.sports.ru%2Ffantasy%2Ffootball%2Fteam%2Fpoints%2F1557039.html&wgl=0&dt=1442691650366&bpp=14&shv=r20150915&cbv=r20150820&saldr=sa&correlator=1738187917313&frm=24&ga_vid=1936462981.1442691650&ga_sid=1442691650&ga_hid=734795646&ga_fc=0&pv=2&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=768&u_aw=1303&u_cd=32&u_nplug=0&u_nmime=0&dff=times%20new%20roman&dfs=16&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=240&ish=400&ifk=3006344621&eid=575144605%2C317150304&oid=3&rx=0&eae=6&jp=2&brdim=0%2C0%2C0%2C0%2C1303%2C0%2C0%2C0%2C240%2C400&vis=0&rsz=%7C%7Cc%7C&abl=NS&ppjl=u&pfx=0&fu=16&bc=1&ifi=1&dtd=226. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://content.adfox.ru/150716/adfox/411919/1322723_1.html from frame with URL https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9041987464336118&output=html&h=400&slotname=9067499928&adk=3020498260&w=240&ea=0&flash=0&url=http%3A%2F%2Fwww.sports.ru%2Ffantasy%2Ffootball%2Fteam%2Fpoints%2F1557039.html&wgl=0&dt=1442691650366&bpp=14&shv=r20150915&cbv=r20150820&saldr=sa&correlator=1738187917313&frm=24&ga_vid=1936462981.1442691650&ga_sid=1442691650&ga_hid=734795646&ga_fc=0&pv=2&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=768&u_aw=1303&u_cd=32&u_nplug=0&u_nmime=0&dff=times%20new%20roman&dfs=16&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=240&ish=400&ifk=3006344621&eid=575144605%2C317150304&oid=3&rx=0&eae=6&jp=2&brdim=0%2C0%2C0%2C0%2C1303%2C0%2C0%2C0%2C240%2C400&vis=0&rsz=%7C%7Cc%7C&abl=NS&ppjl=u&pfx=0&fu=16&bc=1&ifi=1&dtd=226. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9041987464336118&output=html&h=90&slotname=3957597168&adk=1552024901&w=728&ea=0&flash=0&url=http%3A%2F%2Fwww.sports.ru%2Ffantasy%2Ffootball%2Fteam%2Fpoints%2F1557039.html&wgl=0&dt=1442691650089&bpp=16&shv=r20150915&cbv=r20150820&saldr=sa&correlator=2836019652609&frm=24&ga_vid=1486653201.1442691651&ga_sid=1442691651&ga_hid=799352303&ga_fc=0&pv=2&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=768&u_aw=1303&u_cd=32&u_nplug=0&u_nmime=0&dff=times%20new%20roman&dfs=16&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=728&ish=90&ifk=2563391431&eid=575144604%2C317150304%2C1212120620&oid=3&rx=0&eae=6&jp=2&brdim=0%2C0%2C0%2C0%2C1303%2C0%2C0%2C0%2C728%2C90&vis=0&rsz=%7C%7Cc%7C&abl=NS&ppjl=u&pfx=0&srr=1&fu=16&bc=1&ifi=1&dtd=621. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9041987464336118&output=html&h=90&slotname=3957597168&adk=1552024901&w=728&ea=0&flash=0&url=http%3A%2F%2Fwww.sports.ru%2Ffantasy%2Ffootball%2Fteam%2Fpoints%2F1557039.html&wgl=0&dt=1442691650089&bpp=16&shv=r20150915&cbv=r20150820&saldr=sa&correlator=2836019652609&frm=24&ga_vid=1486653201.1442691651&ga_sid=1442691651&ga_hid=799352303&ga_fc=0&pv=2&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=768&u_aw=1303&u_cd=32&u_nplug=0&u_nmime=0&dff=times%20new%20roman&dfs=16&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=728&ish=90&ifk=2563391431&eid=575144604%2C317150304%2C1212120620&oid=3&rx=0&eae=6&jp=2&brdim=0%2C0%2C0%2C0%2C1303%2C0%2C0%2C0%2C728%2C90&vis=0&rsz=%7C%7Cc%7C&abl=NS&ppjl=u&pfx=0&srr=1&fu=16&bc=1&ifi=1&dtd=621. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://content.adfox.ru/150716/adfox/411919/1322722_1.html from frame with URL https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9041987464336118&output=html&h=90&slotname=3957597168&adk=1552024901&w=728&ea=0&flash=0&url=http%3A%2F%2Fwww.sports.ru%2Ffantasy%2Ffootball%2Fteam%2Fpoints%2F1557039.html&wgl=0&dt=1442691650089&bpp=16&shv=r20150915&cbv=r20150820&saldr=sa&correlator=2836019652609&frm=24&ga_vid=1486653201.1442691651&ga_sid=1442691651&ga_hid=799352303&ga_fc=0&pv=2&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=768&u_aw=1303&u_cd=32&u_nplug=0&u_nmime=0&dff=times%20new%20roman&dfs=16&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=728&ish=90&ifk=2563391431&eid=575144604%2C317150304%2C1212120620&oid=3&rx=0&eae=6&jp=2&brdim=0%2C0%2C0%2C0%2C1303%2C0%2C0%2C0%2C728%2C90&vis=0&rsz=%7C%7Cc%7C&abl=NS&ppjl=u&pfx=0&srr=1&fu=16&bc=1&ifi=1&dtd=621. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9041987464336118&output=html&h=90&slotname=3957597168&adk=1552024901&w=728&ea=0&flash=0&url=http%3A%2F%2Fwww.sports.ru%2Ffantasy%2Ffootball%2Fteam%2Fpoints%2F1557039.html&wgl=0&dt=1442691650089&bpp=16&shv=r20150915&cbv=r20150820&saldr=sa&correlator=2836019652609&frm=24&ga_vid=1486653201.1442691651&ga_sid=1442691651&ga_hid=799352303&ga_fc=0&pv=2&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=768&u_aw=1303&u_cd=32&u_nplug=0&u_nmime=0&dff=times%20new%20roman&dfs=16&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=728&ish=90&ifk=2563391431&eid=575144604%2C317150304%2C1212120620&oid=3&rx=0&eae=6&jp=2&brdim=0%2C0%2C0%2C0%2C1303%2C0%2C0%2C0%2C728%2C90&vis=0&rsz=%7C%7Cc%7C&abl=NS&ppjl=u&pfx=0&srr=1&fu=16&bc=1&ifi=1&dtd=621. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL about:blank from frame with URL https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9041987464336118&output=html&h=90&slotname=3957597168&adk=1552024901&w=728&ea=0&flash=0&url=http%3A%2F%2Fwww.sports.ru%2Ffantasy%2Ffootball%2Fteam%2Fpoints%2F1557039.html&wgl=0&dt=1442691650089&bpp=16&shv=r20150915&cbv=r20150820&saldr=sa&correlator=2836019652609&frm=24&ga_vid=1486653201.1442691651&ga_sid=1442691651&ga_hid=799352303&ga_fc=0&pv=2&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=768&u_aw=1303&u_cd=32&u_nplug=0&u_nmime=0&dff=times%20new%20roman&dfs=16&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=728&ish=90&ifk=2563391431&eid=575144604%2C317150304%2C1212120620&oid=3&rx=0&eae=6&jp=2&brdim=0%2C0%2C0%2C0%2C1303%2C0%2C0%2C0%2C728%2C90&vis=0&rsz=%7C%7Cc%7C&abl=NS&ppjl=u&pfx=0&srr=1&fu=16&bc=1&ifi=1&dtd=621. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://content.adfox.ru/150716/adfox/411919/1322722_1.html from frame with URL https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9041987464336118&output=html&h=90&slotname=3957597168&adk=1552024901&w=728&ea=0&flash=0&url=http%3A%2F%2Fwww.sports.ru%2Ffantasy%2Ffootball%2Fteam%2Fpoints%2F1557039.html&wgl=0&dt=1442691650089&bpp=16&shv=r20150915&cbv=r20150820&saldr=sa&correlator=2836019652609&frm=24&ga_vid=1486653201.1442691651&ga_sid=1442691651&ga_hid=799352303&ga_fc=0&pv=2&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=768&u_aw=1303&u_cd=32&u_nplug=0&u_nmime=0&dff=times%20new%20roman&dfs=16&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=728&ish=90&ifk=2563391431&eid=575144604%2C317150304%2C1212120620&oid=3&rx=0&eae=6&jp=2&brdim=0%2C0%2C0%2C0%2C1303%2C0%2C0%2C0%2C728%2C90&vis=0&rsz=%7C%7Cc%7C&abl=NS&ppjl=u&pfx=0&srr=1&fu=16&bc=1&ifi=1&dtd=621. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
+
+Unsafe JavaScript attempt to access frame with URL http://www.sports.ru/fantasy/football/team/points/1557039.html from frame with URL about:blank. Domains, protocols and ports must match.
 
 Бакка - 4
 Луис Адри... - 0
