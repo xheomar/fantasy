@@ -1,6 +1,0 @@
-null	busotir
-47	PrincipessaMilana
-46	xheo
-34	pr-positive
-32	ymat
-28	cron314
