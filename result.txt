@@ -1,9 +1,3 @@
-Error: Script error for: utils/local-storage
-http://requirejs.org/docs/errors.html#scripterror
-
-  http://s5o.ru/build/libs/require.js:8 in ca
-  http://s5o.ru/build/libs/require.js:12 in w
-  http://s5o.ru/build/libs/require.js:29 in onScriptError
 --------------------
 Ди Натале - 5
 Романьоли - 1
@@ -31,12 +25,11 @@ ymat - 1
 xheo - 24
 --------------------
 
---------------------
-Гуарин - -1
---------------------
-busotir - -1
---------------------
+NotFoundError: DOM Exception 8: An attempt was made to reference a Node in a context where it does not exist.
 
+  http://ads.adfox.ru/6902/getCodeTest?yandexuid=10219742590840425453&sign=81e2b71466e3165fec54fb801f2fa886&pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=696488&pt=b&pd=20&pw=0&pv=14&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1558719.html&pr1=688820&pk=:22 in removeChild
+  http://ads.adfox.ru/6902/getCodeTest?yandexuid=10219742590840425453&sign=81e2b71466e3165fec54fb801f2fa886&pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=696488&pt=b&pd=20&pw=0&pv=14&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1558719.html&pr1=688820&pk=:22 in onerror
+  http://ads.adfox.ru/6902/getCodeTest?yandexuid=10219742590840425453&sign=81e2b71466e3165fec54fb801f2fa886&pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=696488&pt=b&pd=20&pw=0&pv=14&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1558719.html&pr1=688820&pk=:23
 --------------------
 Йоветич - 0
 Васкес - 2
