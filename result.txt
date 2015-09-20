@@ -39,11 +39,16 @@ ymat - 3
 xheo - 28
 --------------------
 
-NotFoundError: DOM Exception 8: An attempt was made to reference a Node in a context where it does not exist.
+--------------------
+Манджукич - 0
+Гуарин - -1
+Де Мео - 0
+Манолас - 0
+Буффон - 0
+--------------------
+busotir - -1
+--------------------
 
-  http://ads.adfox.ru/6902/getCodeTest?yandexuid=9887968161823537584&sign=7e9d6036fed50c4a04311e1f37931b0c&pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=997526&pt=b&pd=20&pw=0&pv=15&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1558719.html&pr1=813212&pk=:22 in removeChild
-  http://ads.adfox.ru/6902/getCodeTest?yandexuid=9887968161823537584&sign=7e9d6036fed50c4a04311e1f37931b0c&pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=997526&pt=b&pd=20&pw=0&pv=15&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1558719.html&pr1=813212&pk=:22 in onerror
-  http://ads.adfox.ru/6902/getCodeTest?yandexuid=9887968161823537584&sign=7e9d6036fed50c4a04311e1f37931b0c&pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=997526&pt=b&pd=20&pw=0&pv=15&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1558719.html&pr1=813212&pk=:23
 --------------------
 Йоветич - 4
 Манджукич - 0
