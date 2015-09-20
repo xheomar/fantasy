@@ -13,6 +13,12 @@
 pr-positive - 45
 --------------------
 
+Error: Script error for: utils/local-storage
+http://requirejs.org/docs/errors.html#scripterror
+
+  http://s5o.ru/build/libs/require.js:8 in ca
+  http://s5o.ru/build/libs/require.js:12 in w
+  http://s5o.ru/build/libs/require.js:29 in onScriptError
 --------------------
 Йоветич - 2
 Манджукич - 2
@@ -27,16 +33,6 @@ pr-positive - 45
 ymat - 31
 --------------------
 
-Pusher : Error : {"type":"WebSocketError"}
-Error: Invalid transition [impermanentlyClosing to impermanentlyClosing]
-
-  http://s5o.ru/build/libs/sports-pusher.js?ver=9:259 in transition
-  http://s5o.ru/build/libs/sports-pusher.js?ver=9:706 in ws_onError
-  :0 in close
-  http://s5o.ru/build/libs/sports-pusher.js?ver=9:514 in impermanentlyClosingPost
-  http://s5o.ru/build/libs/sports-pusher.js?ver=9:232 in safeCall
-  http://s5o.ru/build/libs/sports-pusher.js?ver=9:275 in transition
-  http://s5o.ru/build/libs/sports-pusher.js?ver=9:581 in TransitionToImpermanentClosing
 --------------------
 Бакка - 10
 Йоветич - 4
