@@ -197,8 +197,8 @@ page.open(siteName, function (status)
 			// The last update 
 			var p = 0;
 			if (reserve_points.length > 0) {
-				for (var l = players; l < 11; l++) {
-					if (reserve_used[p] != "true")
+				for (var l = players, i = 0; l < 11 && i < reserve_points.length; l++, i++) {
+					if (reserve_used[p] != "true" && reserve_position[p] != "Вр")
 					{
 						if (debug_on == true) console.log("We are going to add " + reserve_points[p] + " points");
 						points += parseInt(reserve_points[p]);
@@ -209,6 +209,7 @@ page.open(siteName, function (status)
 			}
 			
 			if (debug_on == true) console.log("The overall points: " + points);
+			console.log("--------------------");
 			// Print all names
 			for (var i = 0; i < forward_names.length; i++) {
 				console.log(forward_names[i] + " - " + forward_points[i]);
@@ -231,6 +232,7 @@ page.open(siteName, function (status)
 			return points;
 		});
 		console.log(playerName + " - " + data);
+		console.log("--------------------");
 		console.log("");
 	}
 	phantom.exit();
