@@ -41,16 +41,6 @@ ymat - 31
 xheo - 47
 --------------------
 
-Pusher : Error : {"type":"WebSocketError"}
-Error: Invalid transition [impermanentlyClosing to impermanentlyClosing]
-
-  http://s5o.ru/build/libs/sports-pusher.js?ver=9:259 in transition
-  http://s5o.ru/build/libs/sports-pusher.js?ver=9:706 in ws_onError
-  :0 in close
-  http://s5o.ru/build/libs/sports-pusher.js?ver=9:514 in impermanentlyClosingPost
-  http://s5o.ru/build/libs/sports-pusher.js?ver=9:232 in safeCall
-  http://s5o.ru/build/libs/sports-pusher.js?ver=9:275 in transition
-  http://s5o.ru/build/libs/sports-pusher.js?ver=9:581 in TransitionToImpermanentClosing
 --------------------
 Манджукич - 2
 Гуарин - 2
@@ -80,17 +70,8 @@ busotir - 9
 cron314 - 37
 --------------------
 
---------------------
-Бакка - 10
-Луис Адри... - 2
-Погба - 7
-Сапонара - 10
-Яго Фальке - 1
-Манолас - 1
-Сантон - 6
-Буффон - 1
-Эль-Каута... - 1
---------------------
-PrincipessaMilana - 39
---------------------
+NotFoundError: DOM Exception 8: An attempt was made to reference a Node in a context where it does not exist.
 
+  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=80200&pt=b&pd=20&pw=0&pv=19&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1557039.html&pr1=291980&pk=:22 in removeChild
+  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=80200&pt=b&pd=20&pw=0&pv=19&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1557039.html&pr1=291980&pk=:22 in onerror
+  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=80200&pt=b&pd=20&pw=0&pv=19&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1557039.html&pr1=291980&pk=:23
