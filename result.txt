@@ -5,15 +5,11 @@
 pr-positive - 6
 --------------------
 
---------------------
-Йоветич - 0
-Васкес - 2
-Гуарин - -1
-Ханданович - 0
---------------------
-ymat - 1
---------------------
+NotFoundError: DOM Exception 8: An attempt was made to reference a Node in a context where it does not exist.
 
+  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=584142&pt=b&pd=20&pw=0&pv=14&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1557043.html&pr1=235246&pk=:22 in removeChild
+  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=584142&pt=b&pd=20&pw=0&pv=14&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1557043.html&pr1=235246&pk=:22 in onerror
+  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=584142&pt=b&pd=20&pw=0&pv=14&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1557043.html&pr1=235246&pk=:23
 --------------------
 Бакка - 10
 Йоветич - 0
