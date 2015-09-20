@@ -78,8 +78,19 @@ busotir - 40
 cron314 - 52
 --------------------
 
-NotFoundError: DOM Exception 8: An attempt was made to reference a Node in a context where it does not exist.
+--------------------
+Бакка - 10
+Луис Адри... - 2
+Габбьядини - 5
+Погба - 10
+Сапонара - 10
+Яго Фальке - 1
+Алонсо - 0
+Манолас - 1
+Сантон - 6
+Буффон - 6
+Эль-Каута... - 1
+--------------------
+PrincipessaMilana - 52
+--------------------
 
-  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=860140&pt=b&pd=20&pw=0&pv=23&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1557039.html&pr1=806838&pk=:22 in removeChild
-  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=860140&pt=b&pd=20&pw=0&pv=23&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1557039.html&pr1=806838&pk=:22 in onerror
-  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=860140&pt=b&pd=20&pw=0&pv=23&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1557039.html&pr1=806838&pk=:23
