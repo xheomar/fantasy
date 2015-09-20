@@ -13,11 +13,20 @@
 pr-positive - 45
 --------------------
 
-NotFoundError: DOM Exception 8: An attempt was made to reference a Node in a context where it does not exist.
+--------------------
+Йоветич - 2
+Манджукич - 2
+Эдер - 4
+Васкес - 2
+Гуарин - 2
+Салах - 7
+Лихтштайн... - 6
+Ханданович - 6
+Бернардес... - 0
+--------------------
+ymat - 31
+--------------------
 
-  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=546547&pt=b&pd=20&pw=0&pv=18&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1557043.html&pr1=29164&pk=:22 in removeChild
-  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=546547&pt=b&pd=20&pw=0&pv=18&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1557043.html&pr1=29164&pk=:22 in onerror
-  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=546547&pt=b&pd=20&pw=0&pv=18&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1557043.html&pr1=29164&pk=:23
 --------------------
 Бакка - 10
 Йоветич - 4
@@ -45,22 +54,11 @@ xheo - 47
 busotir - 9
 --------------------
 
---------------------
-Йоветич - 4
-Манджукич - 2
-Васкес - 2
-Салах - 7
-Хонда - 2
-Лихтштайн... - 6
-Романьоли - 1
-Сантон - 6
-Буффон - 1
-Флоро Фло... - 5
-Эль-Каута... - 1
---------------------
-cron314 - 37
---------------------
+NotFoundError: DOM Exception 8: An attempt was made to reference a Node in a context where it does not exist.
 
+  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=544254&pt=b&pd=20&pw=0&pv=18&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1562633.html&pr1=535075&pk=:22 in removeChild
+  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=544254&pt=b&pd=20&pw=0&pv=18&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1562633.html&pr1=535075&pk=:22 in onerror
+  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=544254&pt=b&pd=20&pw=0&pv=18&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1562633.html&pr1=535075&pk=:23
 --------------------
 Бакка - 10
 Луис Адри... - 2
