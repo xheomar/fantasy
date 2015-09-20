@@ -8,9 +8,9 @@
 Майкон - 0
 Романьоли - 1
 Буффон - 1
-Бернардес... - 0
+Бернардес... - 3
 --------------------
-pr-positive - 45
+pr-positive - 48
 --------------------
 
 --------------------
@@ -23,9 +23,9 @@ pr-positive - 45
 Алонсо - -1
 Лихтштайн... - 6
 Ханданович - 6
-Бернардес... - 0
+Бернардес... - 3
 --------------------
-ymat - 30
+ymat - 33
 --------------------
 
 --------------------
@@ -57,12 +57,6 @@ xheo - 46
 busotir - 8
 --------------------
 
-Error: Script error for: utils/local-storage
-http://requirejs.org/docs/errors.html#scripterror
-
-  http://s5o.ru/build/libs/require.js:8 in ca
-  http://s5o.ru/build/libs/require.js:12 in w
-  http://s5o.ru/build/libs/require.js:29 in onScriptError
 --------------------
 Йоветич - 4
 Манджукич - 2
@@ -79,19 +73,8 @@ http://requirejs.org/docs/errors.html#scripterror
 cron314 - 37
 --------------------
 
---------------------
-Бакка - 10
-Луис Адри... - 2
-Погба - 7
-Сапонара - 10
-Яго Фальке - 1
-Алонсо - -1
-Манолас - 1
-Сантон - 6
-Буффон - 1
-Эль-Каута... - 1
-Гонсалес - 0
---------------------
-PrincipessaMilana - 38
---------------------
+NotFoundError: DOM Exception 8: An attempt was made to reference a Node in a context where it does not exist.
 
+  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=915264&pt=b&pd=20&pw=0&pv=20&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1557039.html&pr1=837138&pk=:22 in removeChild
+  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=915264&pt=b&pd=20&pw=0&pv=20&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1557039.html&pr1=837138&pk=:22 in onerror
+  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=915264&pt=b&pd=20&pw=0&pv=20&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1557039.html&pr1=837138&pk=:23
