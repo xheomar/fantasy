@@ -51,22 +51,11 @@ xheo - 36
 busotir - 4
 --------------------
 
---------------------
-Йоветич - 4
-Манджукич - 2
-Васкес - 2
-Салах - 5
-Хонда - 2
-Лихтштайн... - 0
-Романьоли - 1
-Сантон - 6
-Буффон - 0
-Флоро Фло... - 5
-Эль-Каута... - 1
---------------------
-cron314 - 28
---------------------
+NotFoundError: DOM Exception 8: An attempt was made to reference a Node in a context where it does not exist.
 
+  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=222094&pt=b&pd=20&pw=0&pv=17&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1562633.html&pr1=294035&pk=:22 in removeChild
+  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=222094&pt=b&pd=20&pw=0&pv=17&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1562633.html&pr1=294035&pk=:22 in onerror
+  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=222094&pt=b&pd=20&pw=0&pv=17&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1562633.html&pr1=294035&pk=:23
 --------------------
 Бакка - 10
 Луис Адри... - 2
