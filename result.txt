@@ -20,12 +20,12 @@ pr-positive - 48
 Васкес - 2
 Гуарин - 2
 Салах - 7
-Алонсо - -1
+Алонсо - 0
 Лихтштайн... - 6
 Ханданович - 6
 Бернардес... - 3
 --------------------
-ymat - 33
+ymat - 34
 --------------------
 
 --------------------
@@ -36,18 +36,27 @@ ymat - 33
 Бонавенту... - 10
 Меджорини - 1
 Сапонара - 5
-Алонсо - -1
+Алонсо - 0
 Лихтштайн... - 6
 Ханданович - 6
 --------------------
-xheo - 46
+xheo - 47
 --------------------
 
-NotFoundError: DOM Exception 8: An attempt was made to reference a Node in a context where it does not exist.
+--------------------
+Манджукич - 2
+Гуарин - 2
+Эрнанес - 1
+Алонсо - 0
+Гонсало - 6
+Де Мео - 1
+Манолас - 1
+Буффон - 1
+Верде - 1
+--------------------
+busotir - 15
+--------------------
 
-  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=389411&pt=b&pd=20&pw=0&pv=20&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1558719.html&pr1=821092&pk=:22 in removeChild
-  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=389411&pt=b&pd=20&pw=0&pv=20&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1558719.html&pr1=821092&pk=:22 in onerror
-  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=389411&pt=b&pd=20&pw=0&pv=20&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1558719.html&pr1=821092&pk=:23
 --------------------
 Йоветич - 4
 Манджукич - 2
