@@ -2,16 +2,16 @@
 Ди Натале - 5
 Куальярел... - 10
 Эдер - 2
-Габбьядини - 5
+Габбьядини - 6
 Погба - 20
-Фелипе Ан... - 0
+Фелипе Ан... - 1
 Глик - 6
 Кьеллини - 9
 Майкон - 0
 Романьоли - 1
 Буффон - 6
 --------------------
-pr-positive - 64
+pr-positive - 66
 --------------------
 
 --------------------
@@ -46,11 +46,21 @@ ymat - 34
 xheo - 47
 --------------------
 
+Pusher : Error : {"type":"WebSocketError"}
+Error: Invalid transition [impermanentlyClosing to impermanentlyClosing]
+
+  http://s5o.ru/build/libs/sports-pusher.js?ver=9:259 in transition
+  http://s5o.ru/build/libs/sports-pusher.js?ver=9:706 in ws_onError
+  :0 in close
+  http://s5o.ru/build/libs/sports-pusher.js?ver=9:514 in impermanentlyClosingPost
+  http://s5o.ru/build/libs/sports-pusher.js?ver=9:232 in safeCall
+  http://s5o.ru/build/libs/sports-pusher.js?ver=9:275 in transition
+  http://s5o.ru/build/libs/sports-pusher.js?ver=9:581 in TransitionToImpermanentClosing
 --------------------
-Игуаин - 20
+Игуаин - 26
 Манджукич - 2
 Гуарин - 2
-Фелипе Ан... - 0
+Фелипе Ан... - 1
 Эрнанес - 1
 Алонсо - 0
 Гонсало - 6
@@ -59,7 +69,7 @@ xheo - 47
 Буффон - 6
 Верде - 1
 --------------------
-busotir - 40
+busotir - 47
 --------------------
 
 --------------------
@@ -81,7 +91,7 @@ cron314 - 52
 --------------------
 Бакка - 10
 Луис Адри... - 2
-Габбьядини - 5
+Габбьядини - 6
 Погба - 10
 Сапонара - 10
 Яго Фальке - 1
@@ -91,6 +101,6 @@ cron314 - 52
 Буффон - 6
 Эль-Каута... - 1
 --------------------
-PrincipessaMilana - 52
+PrincipessaMilana - 53
 --------------------
 
