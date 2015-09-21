@@ -46,16 +46,6 @@ ymat - 34
 xheo - 47
 --------------------
 
-Pusher : Error : {"type":"WebSocketError"}
-Error: Invalid transition [impermanentlyClosing to impermanentlyClosing]
-
-  http://s5o.ru/build/libs/sports-pusher.js?ver=9:259 in transition
-  http://s5o.ru/build/libs/sports-pusher.js?ver=9:706 in ws_onError
-  :0 in close
-  http://s5o.ru/build/libs/sports-pusher.js?ver=9:514 in impermanentlyClosingPost
-  http://s5o.ru/build/libs/sports-pusher.js?ver=9:232 in safeCall
-  http://s5o.ru/build/libs/sports-pusher.js?ver=9:275 in transition
-  http://s5o.ru/build/libs/sports-pusher.js?ver=9:581 in TransitionToImpermanentClosing
 --------------------
 Игуаин - 26
 Манджукич - 2
@@ -72,22 +62,11 @@ Error: Invalid transition [impermanentlyClosing to impermanentlyClosing]
 busotir - 47
 --------------------
 
---------------------
-Йоветич - 4
-Манджукич - 2
-Васкес - 2
-Инсинье - 11
-Салах - 7
-Хонда - 2
-Лихтштайн... - 6
-Романьоли - 1
-Сантон - 6
-Буффон - 6
-Флоро Фло... - 5
---------------------
-cron314 - 52
---------------------
+NotFoundError: DOM Exception 8: An attempt was made to reference a Node in a context where it does not exist.
 
+  http://ads.adfox.ru/6902/getCodeTest?yandexuid=10219742590840425453&sign=81e2b71466e3165fec54fb801f2fa886&pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=152802&pt=b&pd=21&pw=1&pv=8&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1562633.html&pr1=443784&pk=:22 in removeChild
+  http://ads.adfox.ru/6902/getCodeTest?yandexuid=10219742590840425453&sign=81e2b71466e3165fec54fb801f2fa886&pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=152802&pt=b&pd=21&pw=1&pv=8&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1562633.html&pr1=443784&pk=:22 in onerror
+  http://ads.adfox.ru/6902/getCodeTest?yandexuid=10219742590840425453&sign=81e2b71466e3165fec54fb801f2fa886&pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=152802&pt=b&pd=21&pw=1&pv=8&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1562633.html&pr1=443784&pk=:23
 --------------------
 Бакка - 10
 Луис Адри... - 2
