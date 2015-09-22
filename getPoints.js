@@ -209,7 +209,7 @@ page.open(siteName, function (status)
 			}
 			
 			if (debug_on == true) console.log("The overall points: " + points);
-			console.log("--------------------");
+			if (debug_on == true) console.log("--------------------");
 			// Print all names
 			for (var i = 0; i < forward_names.length; i++) {
 				console.log(forward_names[i] + " - " + forward_points[i]);
@@ -232,7 +232,7 @@ page.open(siteName, function (status)
 			return points;
 		});
 		console.log(playerName + " - " + data);
-		console.log("--------------------");
+		//console.log("--------------------");
 		console.log("");
 	}
 	phantom.exit();
