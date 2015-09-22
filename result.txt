@@ -11,11 +11,9 @@ ymat - 0
 --------------------
 xheo - 8
 
-NotFoundError: DOM Exception 8: An attempt was made to reference a Node in a context where it does not exist.
+--------------------
+busotir - 0
 
-  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=964213&pt=b&pd=22&pw=2&pv=22&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1558719.html&pr1=148060&pk=:22 in removeChild
-  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=964213&pt=b&pd=22&pw=2&pv=22&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1558719.html&pr1=148060&pk=:22 in onerror
-  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=964213&pt=b&pd=22&pw=2&pv=22&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1558719.html&pr1=148060&pk=:23
 Бонавенту... - 8
 Хонда - 0
 Романьоли - 0
