@@ -3,9 +3,11 @@
 --------------------
 pr-positive - 6
 
---------------------
-ymat - 0
+NotFoundError: DOM Exception 8: An attempt was made to reference a Node in a context where it does not exist.
 
+  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=955146&pt=b&pd=22&pw=2&pv=22&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1557043.html&pr1=955072&pk=:22 in removeChild
+  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=955146&pt=b&pd=22&pw=2&pv=22&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1557043.html&pr1=955072&pk=:22 in onerror
+  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=955146&pt=b&pd=22&pw=2&pv=22&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1557043.html&pr1=955072&pk=:23
 Бакка - 0
 Бонавенту... - 5
 --------------------
