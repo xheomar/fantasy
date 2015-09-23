@@ -1,18 +1,20 @@
-Погба - 2
-Алекс Сан... - 1
-Де Санктис - 8
+NotFoundError: DOM Exception 8: An attempt was made to reference a Node in a context where it does not exist.
+
+  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=64732&pt=b&pd=23&pw=3&pv=6&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1553274.html&pr1=284883&pk=:22 in removeChild
+  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=64732&pt=b&pd=23&pw=3&pv=6&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1553274.html&pr1=284883&pk=:22 in onerror
+  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=64732&pt=b&pd=23&pw=3&pv=6&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1553274.html&pr1=284883&pk=:23
+Погба - 4
+Салах - 7
+Кьеллини - 1
+Хюсай - 2
 --------------------
-pr-positive - 11
+ymat - 14
 
 NotFoundError: DOM Exception 8: An attempt was made to reference a Node in a context where it does not exist.
 
-  http://ads.adfox.ru/6902/getCodeTest?yandexuid=10219742590840425453&sign=81e2b71466e3165fec54fb801f2fa886&pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=520256&pt=b&pd=23&pw=3&pv=6&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1557043.html&pr1=955533&pk=:22 in removeChild
-  http://ads.adfox.ru/6902/getCodeTest?yandexuid=10219742590840425453&sign=81e2b71466e3165fec54fb801f2fa886&pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=520256&pt=b&pd=23&pw=3&pv=6&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1557043.html&pr1=955533&pk=:22 in onerror
-  http://ads.adfox.ru/6902/getCodeTest?yandexuid=10219742590840425453&sign=81e2b71466e3165fec54fb801f2fa886&pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=520256&pt=b&pd=23&pw=3&pv=6&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1557043.html&pr1=955533&pk=:23
-Инсинье - 6
---------------------
-xheo - 6
-
+  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=816966&pt=b&pd=23&pw=3&pv=6&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1559624.html&pr1=523920&pk=:22 in removeChild
+  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=816966&pt=b&pd=23&pw=3&pv=6&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1559624.html&pr1=523920&pk=:22 in onerror
+  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=816966&pt=b&pd=23&pw=3&pv=6&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1559624.html&pr1=523920&pk=:23
 Игуаин - 18
 Инсинье - 6
 Мертенс - 1
@@ -21,16 +23,15 @@ xheo - 6
 --------------------
 busotir - 35
 
+Салах - 7
+Манолас - 8
+Буффон - 1
+Инсинье - 6
+--------------------
+cron314 - 22
+
 NotFoundError: DOM Exception 8: An attempt was made to reference a Node in a context where it does not exist.
 
-  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=249428&pt=b&pd=23&pw=3&pv=6&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1562633.html&pr1=576327&pk=:22 in removeChild
-  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=249428&pt=b&pd=23&pw=3&pv=6&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1562633.html&pr1=576327&pk=:22 in onerror
-  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=249428&pt=b&pd=23&pw=3&pv=6&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1562633.html&pr1=576327&pk=:23
-Дибала - 5
-Инсинье - 6
-Погба - 2
-Буффон - 1
-Манолас - 8
---------------------
-PrincipessaMilana - 22
-
+  http://ads.adfox.ru/6902/getCodeTest?yandexuid=10219742590840425453&sign=81e2b71466e3165fec54fb801f2fa886&pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=651478&pt=b&pd=23&pw=3&pv=6&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1557039.html&pr1=691220&pk=:22 in removeChild
+  http://ads.adfox.ru/6902/getCodeTest?yandexuid=10219742590840425453&sign=81e2b71466e3165fec54fb801f2fa886&pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=651478&pt=b&pd=23&pw=3&pv=6&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1557039.html&pr1=691220&pk=:22 in onerror
+  http://ads.adfox.ru/6902/getCodeTest?yandexuid=10219742590840425453&sign=81e2b71466e3165fec54fb801f2fa886&pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=651478&pt=b&pd=23&pw=3&pv=6&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1557039.html&pr1=691220&pk=:23
