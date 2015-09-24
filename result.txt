@@ -1,30 +1,30 @@
 NotFoundError: DOM Exception 8: An attempt was made to reference a Node in a context where it does not exist.
 
-  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=507730&pt=b&pd=24&pw=4&pv=14&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1553274.html&pr1=589561&pk=:22 in removeChild
-  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=507730&pt=b&pd=24&pw=4&pv=14&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1553274.html&pr1=589561&pk=:22 in onerror
-  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=507730&pt=b&pd=24&pw=4&pv=14&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1553274.html&pr1=589561&pk=:23
+  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=740595&pt=b&pd=24&pw=4&pv=14&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1553274.html&pr1=621053&pk=:22 in removeChild
+  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=740595&pt=b&pd=24&pw=4&pv=14&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1553274.html&pr1=621053&pk=:22 in onerror
+  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=740595&pt=b&pd=24&pw=4&pv=14&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1553274.html&pr1=621053&pk=:23
 NotFoundError: DOM Exception 8: An attempt was made to reference a Node in a context where it does not exist.
 
-  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=677756&pt=b&pd=24&pw=4&pv=14&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1557043.html&pr1=50931&pk=:22 in removeChild
-  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=677756&pt=b&pd=24&pw=4&pv=14&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1557043.html&pr1=50931&pk=:22 in onerror
-  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=677756&pt=b&pd=24&pw=4&pv=14&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1557043.html&pr1=50931&pk=:23
+  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=264318&pt=b&pd=24&pw=4&pv=14&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1557043.html&pr1=571164&pk=:22 in removeChild
+  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=264318&pt=b&pd=24&pw=4&pv=14&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1557043.html&pr1=571164&pk=:22 in onerror
+  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=264318&pt=b&pd=24&pw=4&pv=14&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1557043.html&pr1=571164&pk=:23
 NotFoundError: DOM Exception 8: An attempt was made to reference a Node in a context where it does not exist.
 
-  http://ads.adfox.ru/6902/getCodeTest?yandexuid=10219742590840425453&sign=81e2b71466e3165fec54fb801f2fa886&pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=391707&pt=b&pd=24&pw=4&pv=14&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1559624.html&pr1=618631&pk=:22 in removeChild
-  http://ads.adfox.ru/6902/getCodeTest?yandexuid=10219742590840425453&sign=81e2b71466e3165fec54fb801f2fa886&pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=391707&pt=b&pd=24&pw=4&pv=14&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1559624.html&pr1=618631&pk=:22 in onerror
-  http://ads.adfox.ru/6902/getCodeTest?yandexuid=10219742590840425453&sign=81e2b71466e3165fec54fb801f2fa886&pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=391707&pt=b&pd=24&pw=4&pv=14&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1559624.html&pr1=618631&pk=:23
+  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=513578&pt=b&pd=24&pw=4&pv=14&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1559624.html&pr1=388824&pk=:22 in removeChild
+  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=513578&pt=b&pd=24&pw=4&pv=14&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1559624.html&pr1=388824&pk=:22 in onerror
+  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=513578&pt=b&pd=24&pw=4&pv=14&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1559624.html&pr1=388824&pk=:23
 NotFoundError: DOM Exception 8: An attempt was made to reference a Node in a context where it does not exist.
 
-  http://ads.adfox.ru/6902/getCodeTest?yandexuid=10219742590840425453&sign=81e2b71466e3165fec54fb801f2fa886&pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=553997&pt=b&pd=24&pw=4&pv=14&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1558719.html&pr1=623774&pk=:22 in removeChild
-  http://ads.adfox.ru/6902/getCodeTest?yandexuid=10219742590840425453&sign=81e2b71466e3165fec54fb801f2fa886&pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=553997&pt=b&pd=24&pw=4&pv=14&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1558719.html&pr1=623774&pk=:22 in onerror
-  http://ads.adfox.ru/6902/getCodeTest?yandexuid=10219742590840425453&sign=81e2b71466e3165fec54fb801f2fa886&pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=553997&pt=b&pd=24&pw=4&pv=14&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1558719.html&pr1=623774&pk=:23
+  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=895709&pt=b&pd=24&pw=4&pv=14&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1558719.html&pr1=352479&pk=:22 in removeChild
+  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=895709&pt=b&pd=24&pw=4&pv=14&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1558719.html&pr1=352479&pk=:22 in onerror
+  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=895709&pt=b&pd=24&pw=4&pv=14&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1558719.html&pr1=352479&pk=:23
 NotFoundError: DOM Exception 8: An attempt was made to reference a Node in a context where it does not exist.
 
-  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=844046&pt=b&pd=24&pw=4&pv=14&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1562633.html&pr1=691153&pk=:22 in removeChild
-  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=844046&pt=b&pd=24&pw=4&pv=14&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1562633.html&pr1=691153&pk=:22 in onerror
-  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=844046&pt=b&pd=24&pw=4&pv=14&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1562633.html&pr1=691153&pk=:23
+  http://ads.adfox.ru/6902/getCodeTest?yandexuid=10219742590840425453&sign=81e2b71466e3165fec54fb801f2fa886&pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=689077&pt=b&pd=24&pw=4&pv=14&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1562633.html&pr1=463160&pk=:22 in removeChild
+  http://ads.adfox.ru/6902/getCodeTest?yandexuid=10219742590840425453&sign=81e2b71466e3165fec54fb801f2fa886&pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=689077&pt=b&pd=24&pw=4&pv=14&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1562633.html&pr1=463160&pk=:22 in onerror
+  http://ads.adfox.ru/6902/getCodeTest?yandexuid=10219742590840425453&sign=81e2b71466e3165fec54fb801f2fa886&pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=689077&pt=b&pd=24&pw=4&pv=14&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1562633.html&pr1=463160&pk=:23
 NotFoundError: DOM Exception 8: An attempt was made to reference a Node in a context where it does not exist.
 
-  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=329958&pt=b&pd=24&pw=4&pv=14&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1557039.html&pr1=170782&pk=:22 in removeChild
-  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=329958&pt=b&pd=24&pw=4&pv=14&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1557039.html&pr1=170782&pk=:22 in onerror
-  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=329958&pt=b&pd=24&pw=4&pv=14&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1557039.html&pr1=170782&pk=:23
+  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=610797&pt=b&pd=24&pw=4&pv=14&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1557039.html&pr1=947234&pk=:22 in removeChild
+  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=610797&pt=b&pd=24&pw=4&pv=14&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1557039.html&pr1=947234&pk=:22 in onerror
+  http://ads.adfox.ru/6902/getCodeTest?pp=g&ps=fsu&p2=dbe&pct=c&plp=a&pli=a&pop=a&pr=610797&pt=b&pd=24&pw=4&pv=14&prr=&pdw=1366&pdh=768&dl=http%3A//www.sports.ru/fantasy/football/team/points/1557039.html&pr1=947234&pk=:23
