@@ -29,6 +29,12 @@ ymat - 15
 --------------------
 xheo - 12
 
+Error: Script error for: utils/local-storage
+http://requirejs.org/docs/errors.html#scripterror
+
+  http://s5o.ru/build/libs/require.js:8 in ca
+  http://s5o.ru/build/libs/require.js:12 in w
+  http://s5o.ru/build/libs/require.js:29 in onScriptError
 Игуаин - 18
 Инсинье - 6
 Мертенс - 1
