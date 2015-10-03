@@ -24,7 +24,7 @@ busotir - 2
 cron314 - 2
 
 Э. Моретти - 1
-Бирса - 0
+Бирса - 1
 --------------------
-PrincipessaMilana - 1
+PrincipessaMilana - 2
 
