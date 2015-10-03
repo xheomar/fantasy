@@ -1,3 +1,12 @@
+Error: Invalid JSON string: 0=goog_get_mode
+4=1552024901
+7=0
+8=true
+9=0-0-0-0
+
+  https://s.ytimg.com/yts/jsbin/www-pyv-embed-vflZePkY2/www-pyv-embed.js:18 in bb
+  https://s.ytimg.com/yts/jsbin/www-pyv-embed-vflZePkY2/www-pyv-embed.js:45
+  https://s.ytimg.com/yts/jsbin/www-pyv-embed-vflZePkY2/www-pyv-embed.js:17
 Куальярел... - 4
 Глик - 1
 --------------------
@@ -10,18 +19,18 @@ ymat - 4
 
 Куальярел... - 2
 Бирса - 1
-Меджорини - 0
+Меджорини - -1
 --------------------
-xheo - 3
+xheo - 2
 
 Паделли - 2
 --------------------
 busotir - 2
 
 Куальярел... - 2
-Меджорини - 0
+Меджорини - -1
 --------------------
-cron314 - 2
+cron314 - 1
 
 Э. Моретти - 1
 Бирса - 1
