@@ -23,15 +23,6 @@ pr-positive - 24
 --------------------
 ymat - 29
 
-Error: Invalid JSON string: 0=goog_get_mode
-4=1552024901
-7=0
-8=true
-9=0-0-0-0
-
-  https://s.ytimg.com/yts/jsbin/www-pyv-embed-vflZePkY2/www-pyv-embed.js:18 in bb
-  https://s.ytimg.com/yts/jsbin/www-pyv-embed-vflZePkY2/www-pyv-embed.js:45
-  https://s.ytimg.com/yts/jsbin/www-pyv-embed-vflZePkY2/www-pyv-embed.js:17
 Бакка - 0
 Игуаин - 0
 Куальярел... - 2
