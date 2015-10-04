@@ -23,7 +23,7 @@ pr-positive - 30
 --------------------
 ymat - 32
 
-Бакка - 0
+Бакка - 2
 Игуаин - 5
 Куальярел... - 2
 Бирса - 1
@@ -34,7 +34,7 @@ ymat - 32
 Сантон - 2
 Ханданович - 3
 --------------------
-xheo - 29
+xheo - 31
 
 Игуаин - 10
 Икарди - 5
@@ -50,6 +50,15 @@ xheo - 29
 --------------------
 busotir - 52
 
+Error: Invalid JSON string: 0=goog_get_mode
+4=1552024901
+7=0
+8=true
+9=0-0-0-0
+
+  https://s.ytimg.com/yts/jsbin/www-pyv-embed-vflZePkY2/www-pyv-embed.js:18 in bb
+  https://s.ytimg.com/yts/jsbin/www-pyv-embed-vflZePkY2/www-pyv-embed.js:45
+  https://s.ytimg.com/yts/jsbin/www-pyv-embed-vflZePkY2/www-pyv-embed.js:17
 Игуаин - 10
 Куальярел... - 2
 Эдер - 2
