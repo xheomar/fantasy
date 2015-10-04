@@ -14,42 +14,9 @@ ymat - 4
 --------------------
 xheo - 4
 
-TypeError: undefined is not an object (evaluating '$.Sports.Registry')
-
-  http://www.sports.ru/fantasy/football/team/points/1558719.html:36 in global code
-TypeError: undefined is not an object (evaluating '$.Sports.Registry')
-
-  http://www.sports.ru/fantasy/football/team/points/1558719.html:85 in global code
-TypeError: undefined is not an object (evaluating 'jQuery.Sports.User')
-
-  http://www.sports.ru/fantasy/football/team/points/1558719.html:145 in global code
-TypeError: undefined is not an object (evaluating '$.Sports.Registry')
-
-  http://www.sports.ru/fantasy/football/team/points/1558719.html:392
-TypeError: undefined is not an object (evaluating 'jQuery.Sports.User')
-
-  http://www.sports.ru/fantasy/football/team/points/1558719.html:2898 in global code
-TypeError: undefined is not an object (evaluating '$.Sports.Registry')
-
-  http://www.sports.ru/fantasy/football/team/points/1558719.html:3031 in global code
-TypeError: undefined is not an object (evaluating '$.Sports.User')
-
-  http://www.sports.ru/fantasy/football/team/points/1558719.html:3161
-TypeError: undefined is not an object (evaluating '$.Sports.User')
-
-  http://www.sports.ru/fantasy/football/team/points/1558719.html:3199
-TypeError: undefined is not an object (evaluating '$.Sports.Registry')
-
-  http://www.sports.ru/fantasy/football/team/points/1558719.html:3378
-TypeError: undefined is not an object (evaluating '$.Sports.Registry')
-
-  http://www.sports.ru/fantasy/football/team/points/1558719.html:44
-  http://s5o.ru/jquery.min.js:2 in k
-  http://s5o.ru/jquery.min.js:2 in fireWith
-  http://s5o.ru/jquery.min.js:2 in ready
-  http://s5o.ru/jquery.min.js:2 in D
+Паделли - 2
 --------------------
-busotir - 0
+busotir - 2
 
 Куальярел... - 2
 Меджорини - 1
