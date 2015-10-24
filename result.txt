@@ -2,16 +2,6 @@
 --------------------
 pr-positive - 0
 
-Pusher : Error : {"type":"WebSocketError"}
-Error: Invalid transition [impermanentlyClosing to impermanentlyClosing]
-
-  http://s5o.ru/build/libs/sports-pusher.js?ver=9:259 in transition
-  http://s5o.ru/build/libs/sports-pusher.js?ver=9:706 in ws_onError
-  :0 in close
-  http://s5o.ru/build/libs/sports-pusher.js?ver=9:514 in impermanentlyClosingPost
-  http://s5o.ru/build/libs/sports-pusher.js?ver=9:232 in safeCall
-  http://s5o.ru/build/libs/sports-pusher.js?ver=9:275 in transition
-  http://s5o.ru/build/libs/sports-pusher.js?ver=9:581 in TransitionToImpermanentClosing
 --------------------
 ymat - 0
 
