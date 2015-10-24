@@ -22,8 +22,8 @@ busotir - 7
 --------------------
 cron314 - -1
 
-Йоветич - 0
+Йоветич - 2
 Мурильо - -1
 --------------------
-PrincipessaMilana - -1
+PrincipessaMilana - 1
 
