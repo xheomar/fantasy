@@ -1,9 +1,3 @@
-Error: Script error for: utils/local-storage
-http://requirejs.org/docs/errors.html#scripterror
-
-  http://s5o.ru/build/libs/require.js:8 in ca
-  http://s5o.ru/build/libs/require.js:12 in w
-  http://s5o.ru/build/libs/require.js:29 in onScriptError
 Матос - 2
 Хильемарк - 2
 --------------------
