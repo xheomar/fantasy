@@ -11,12 +11,19 @@ pr-positive - 49
 
 Дибала - 8
 Эдер - 9
+Иличич - 0
+Пьянич - 0
+Салах - 0
 Кьеллини - 6
 Вивиано - 2
+Бернардес... - 0
 --------------------
 ymat - 25
 
+Калинич - 0
 Берарди - 12
+Пьянич - 0
+Флоренци - 0
 Миранда - 2
 Спортьелло - 6
 Бакка - 6
@@ -24,25 +31,45 @@ ymat - 25
 --------------------
 xheo - 28
 
+Pusher : Error : {"type":"WebSocketError"}
+Error: Invalid transition [impermanentlyClosing to impermanentlyClosing]
+
+  http://s5o.ru/build/libs/sports-pusher.js?ver=9:259 in transition
+  http://s5o.ru/build/libs/sports-pusher.js?ver=9:706 in ws_onError
+  :0 in close
+  http://s5o.ru/build/libs/sports-pusher.js?ver=9:514 in impermanentlyClosingPost
+  http://s5o.ru/build/libs/sports-pusher.js?ver=9:232 in safeCall
+  http://s5o.ru/build/libs/sports-pusher.js?ver=9:275 in transition
+  http://s5o.ru/build/libs/sports-pusher.js?ver=9:581 in TransitionToImpermanentClosing
 Икарди - 2
 Берарди - 6
+Иличич - 0
 Перишич - 7
-Бонаццоли - 1
+Салах - 0
+Динь - 0
+Манолас - 0
+Гонсало - 0
 --------------------
-busotir - 16
+busotir - 15
 
+Калинич - 0
 Эдер - 9
+Иличич - 0
+Салах - 0
 Мурильо - -1
 Ханданович - 2
-Бонавенту... - 2
+Динь - 0
 --------------------
-cron314 - 12
+cron314 - 10
 
 Бакка - 6
 Йоветич - 2
 Бонавенту... - 2
+Пьянич - 0
+Манолас - 0
 Мурильо - -1
 Буффон - 6
+Салах - 0
 --------------------
 PrincipessaMilana - 15
 
