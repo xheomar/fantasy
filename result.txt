@@ -6,11 +6,11 @@
 Матос - 2
 Фелипе Ан... - 0
 Бонуччи - 6
+Глик - 0
 Буффон - 6
-Хильемарк - 2
 Романьоли - 2
 --------------------
-pr-positive - 49
+pr-positive - 47
 
 Дибала - 8
 Эдер - 9
@@ -58,6 +58,16 @@ busotir - 15
 --------------------
 cron314 - 10
 
+Pusher : Error : {"type":"WebSocketError"}
+Error: Invalid transition [impermanentlyClosing to impermanentlyClosing]
+
+  http://s5o.ru/build/libs/sports-pusher.js?ver=9:259 in transition
+  http://s5o.ru/build/libs/sports-pusher.js?ver=9:706 in ws_onError
+  :0 in close
+  http://s5o.ru/build/libs/sports-pusher.js?ver=9:514 in impermanentlyClosingPost
+  http://s5o.ru/build/libs/sports-pusher.js?ver=9:232 in safeCall
+  http://s5o.ru/build/libs/sports-pusher.js?ver=9:275 in transition
+  http://s5o.ru/build/libs/sports-pusher.js?ver=9:581 in TransitionToImpermanentClosing
 Бакка - 6
 Йоветич - 2
 Бонавенту... - 2
