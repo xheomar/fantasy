@@ -24,12 +24,6 @@ pr-positive - 47
 --------------------
 ymat - 33
 
-Error: Script error for: utils/local-storage
-http://requirejs.org/docs/errors.html#scripterror
-
-  http://s5o.ru/build/libs/require.js:8 in ca
-  http://s5o.ru/build/libs/require.js:12 in w
-  http://s5o.ru/build/libs/require.js:29 in onScriptError
 Калинич - 0
 Базелли - 0
 Берарди - 12
