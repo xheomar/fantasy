@@ -4,13 +4,13 @@
 Берарди - 6
 Иличич - 0
 Матос - 2
-Фелипе Ан... - 0
+Фелипе Ан... - 5
 Бонуччи - 6
 Глик - 0
 Буффон - 6
 Романьоли - 2
 --------------------
-pr-positive - 47
+pr-positive - 52
 
 Дибала - 8
 Эдер - 9
@@ -20,20 +20,10 @@ pr-positive - 47
 Баста - 0
 Кьеллини - 6
 Вивиано - 2
-Бернардес... - 0
+Бернардес... - -1
 --------------------
-ymat - 33
+ymat - 32
 
-Pusher : Error : {"type":"WebSocketError"}
-Error: Invalid transition [impermanentlyClosing to impermanentlyClosing]
-
-  http://s5o.ru/build/libs/sports-pusher.js?ver=9:259 in transition
-  http://s5o.ru/build/libs/sports-pusher.js?ver=9:706 in ws_onError
-  :0 in close
-  http://s5o.ru/build/libs/sports-pusher.js?ver=9:514 in impermanentlyClosingPost
-  http://s5o.ru/build/libs/sports-pusher.js?ver=9:232 in safeCall
-  http://s5o.ru/build/libs/sports-pusher.js?ver=9:275 in transition
-  http://s5o.ru/build/libs/sports-pusher.js?ver=9:581 in TransitionToImpermanentClosing
 Калинич - 0
 Базелли - 0
 Берарди - 12
