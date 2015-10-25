@@ -1,31 +1,31 @@
 Дибала - 16
-Куальярел... - 0
+Куальярел... - 2
 Эдер - 9
 Берарди - 6
 Иличич - 2
 Матос - 2
-Фелипе Ан... - 10
+Фелипе Ан... - 13
 Бонуччи - 6
-Глик - 0
+Глик - 1
 Буффон - 6
 Романьоли - 2
 --------------------
-pr-positive - 59
+pr-positive - 65
 
 Дибала - 8
 Эдер - 9
 Иличич - 2
 Пьянич - 6
 Салах - 5
-Баста - 0
+Баста - 6
 Кьеллини - 6
 Вивиано - 2
 Бернардес... - 1
 --------------------
-ymat - 39
+ymat - 45
 
 Калинич - 2
-Базелли - 0
+Базелли - 2
 Берарди - 12
 Пьянич - 6
 Флоренци - 4
@@ -34,7 +34,7 @@ ymat - 39
 Бакка - 6
 Гонсалес - 2
 --------------------
-xheo - 40
+xheo - 42
 
 Икарди - 2
 Берарди - 6
@@ -43,11 +43,21 @@ xheo - 40
 Салах - 10
 Динь - 2
 Манолас - 2
-Паделли - 0
+Паделли - 1
 Гонсало - 1
 --------------------
-busotir - 32
+busotir - 33
 
+Pusher : Error : {"type":"WebSocketError"}
+Error: Invalid transition [impermanentlyClosing to impermanentlyClosing]
+
+  http://s5o.ru/build/libs/sports-pusher.js?ver=9:259 in transition
+  http://s5o.ru/build/libs/sports-pusher.js?ver=9:706 in ws_onError
+  :0 in close
+  http://s5o.ru/build/libs/sports-pusher.js?ver=9:514 in impermanentlyClosingPost
+  http://s5o.ru/build/libs/sports-pusher.js?ver=9:232 in safeCall
+  http://s5o.ru/build/libs/sports-pusher.js?ver=9:275 in transition
+  http://s5o.ru/build/libs/sports-pusher.js?ver=9:581 in TransitionToImpermanentClosing
 Калинич - 2
 Эдер - 9
 Иличич - 2
