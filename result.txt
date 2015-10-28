@@ -1,6 +1,3 @@
-ReferenceError: Can't find variable: asi_makeGIF
-
-  http://js.revsci.net/gateway/gw.js?auto=t&csid=F09828&bpid=sportsru:1 in global code
 Дибала - 0
 Берарди - 0
 Иличич - 0
