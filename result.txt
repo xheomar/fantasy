@@ -37,7 +37,7 @@ cron314 - 0
 
 Пьянич - 0
 Манолас - 0
-Буффон - 2
+Буффон - 3
 --------------------
-PrincipessaMilana - 2
+PrincipessaMilana - 3
 
