@@ -30,6 +30,10 @@ sleep 5s
 phantomjs.exe getPoints.js http://www.sports.ru/fantasy/football/team/1557039.html PrincipessaMilana > temp.txt
 grep "ads.adfox.ru" ./temp.txt && goto :again_6 || tail -n 50 temp.txt >> result.txt
 
+find -type f -name result.txt -exec sed -i -r 's/Фелипе\ Ан\.\.\./Фелипе\ Андерсон/g' {} \;
+find -type f -name result.txt -exec sed -i -r 's/Бонавенту\.\.\./Бонавентура/g' {} \;
+find -type f -name result.txt -exec sed -i -r 's/А\.\ Масьел\.\.\./А\.\ Масьелло/g' {} \;
+
 git add result.txt
 git commit -m "Again and again..."
 git push -u origin master
