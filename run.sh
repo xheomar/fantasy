@@ -2,6 +2,7 @@
 
 while [ 1 ]
 do
+		echo PR-POSITIVE
 		while [ 1 ] 
 		do 
 			./phantomjs.exe getPoints.js http://www.sports.ru/fantasy/football/team/1553274.html pr-positive > temp.txt
@@ -12,7 +13,8 @@ do
 			fi
 		done 
 		tail -n 50 temp.txt > result.txt
-
+		
+		echo YMAT
 		while [ 1 ] 
 		do 
 			./phantomjs.exe getPoints.js http://www.sports.ru/fantasy/football/team/1557043.html ymat > temp.txt
@@ -23,7 +25,8 @@ do
 			fi
 		done 
 		tail -n 50 temp.txt >> result.txt
-
+		
+		echo XHEO
 		while [ 1 ] 
 		do 
 			./phantomjs.exe getPoints.js http://www.sports.ru/fantasy/football/team/1559624.html xheo > temp.txt
@@ -35,6 +38,7 @@ do
 		done 
 		tail -n 50 temp.txt >> result.txt
 
+		echo BUSOTIR
 		while [ 1 ] 
 		do 
 			./phantomjs.exe getPoints.js http://www.sports.ru/fantasy/football/team/1558719.html busotir > temp.txt
@@ -46,6 +50,7 @@ do
 		done 
 		tail -n 50 temp.txt >> result.txt
 
+		echo CRON314
 		while [ 1 ] 
 		do 
 			./phantomjs.exe getPoints.js http://www.sports.ru/fantasy/football/team/1562633.html cron314 > temp.txt
@@ -57,6 +62,7 @@ do
 		done 
 		tail -n 50 temp.txt >> result.txt
 
+		echo MILANA
 		while [ 1 ] 
 		do 
 			./phantomjs.exe getPoints.js http://www.sports.ru/fantasy/football/team/1557039.html PrincipessaMilana > temp.txt
