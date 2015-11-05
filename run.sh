@@ -5,7 +5,7 @@ do
 		echo PR-POSITIVE
 		while [ 1 ] 
 		do 
-			./phantomjs.exe getPoints.js http://www.sports.ru/fantasy/football/team/1553274.html pr-positive > temp.txt
+			phantomjs getPoints.js http://www.sports.ru/fantasy/football/team/1553274.html pr-positive > temp.txt
 			NUM=`grep -c "ads.adfox.ru" ./temp.txt` 
 			if [ ${NUM} -ne 0 ]
 				then continue;
@@ -17,7 +17,7 @@ do
 		echo YMAT
 		while [ 1 ] 
 		do 
-			./phantomjs.exe getPoints.js http://www.sports.ru/fantasy/football/team/1557043.html ymat > temp.txt
+			phantomjs getPoints.js http://www.sports.ru/fantasy/football/team/1557043.html ymat > temp.txt
 			NUM=`grep -c "ads.adfox.ru" ./temp.txt` 
 			if [ ${NUM} -ne 0 ]
 				then continue;
@@ -29,7 +29,7 @@ do
 		echo XHEO
 		while [ 1 ] 
 		do 
-			./phantomjs.exe getPoints.js http://www.sports.ru/fantasy/football/team/1559624.html xheo > temp.txt
+			phantomjs getPoints.js http://www.sports.ru/fantasy/football/team/1559624.html xheo > temp.txt
 			NUM=`grep -c "ads.adfox.ru" ./temp.txt` 
 			if [ ${NUM} -ne 0 ]
 				then continue;
@@ -41,7 +41,7 @@ do
 		echo BUSOTIR
 		while [ 1 ] 
 		do 
-			./phantomjs.exe getPoints.js http://www.sports.ru/fantasy/football/team/1558719.html busotir > temp.txt
+			phantomjs getPoints.js http://www.sports.ru/fantasy/football/team/1558719.html busotir > temp.txt
 			NUM=`grep -c "ads.adfox.ru" ./temp.txt` 
 			if [ ${NUM} -ne 0 ]
 				then continue;
@@ -53,7 +53,7 @@ do
 		echo CRON314
 		while [ 1 ] 
 		do 
-			./phantomjs.exe getPoints.js http://www.sports.ru/fantasy/football/team/1562633.html cron314 > temp.txt
+			phantomjs getPoints.js http://www.sports.ru/fantasy/football/team/1562633.html cron314 > temp.txt
 			NUM=`grep -c "ads.adfox.ru" ./temp.txt` 
 			if [ ${NUM} -ne 0 ]
 				then continue;
@@ -65,7 +65,7 @@ do
 		echo MILANA
 		while [ 1 ] 
 		do 
-			./phantomjs.exe getPoints.js http://www.sports.ru/fantasy/football/team/1557039.html PrincipessaMilana > temp.txt
+			phantomjs getPoints.js http://www.sports.ru/fantasy/football/team/1557039.html PrincipessaMilana > temp.txt
 			NUM=`grep -c "ads.adfox.ru" ./temp.txt` 
 			if [ ${NUM} -ne 0 ]
 				then continue;
