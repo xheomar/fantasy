@@ -1,18 +1,4 @@
-Thu Nov 5 18:40:30 EST 2015
-Дибала - 2
-Йоветич - 5
-Эдер - 6
-Берарди - 3
-Гомес - 2
-Фелипе Андерсон - 2
-Бонуччи - 2
-Гонсало - 16
-Хюсай - 6
-Буффон - 3
-Ларангейра - 5
---------------------
-pr-positive - 52
-
+Thu Nov 5 18:43:40 EST 2015
   https://www.gstatic.com/swiffy/v7.4/runtime.js:88
   https://www.gstatic.com/swiffy/v7.4/runtime.js:310
   https://www.gstatic.com/swiffy/v7.4/runtime.js:346
@@ -49,6 +35,20 @@ TypeError: Attempting to change value of a readonly property.
   https://www.gstatic.com/swiffy/v7.4/runtime.js:610
   https://www.gstatic.com/swiffy/v7.4/runtime.js:111
   https://www.gstatic.com/swiffy/v7.4/runtime.js:15
+Дибала - 2
+Йоветич - 5
+Эдер - 6
+Берарди - 3
+Гомес - 2
+Фелипе Андерсон - 2
+Бонуччи - 2
+Гонсало - 16
+Хюсай - 6
+Буффон - 3
+Ларангейра - 5
+--------------------
+pr-positive - 52
+
 Дибала - 2
 Игуаин - 4
 Йоветич - 5
@@ -104,42 +104,6 @@ busotir - 37
 --------------------
 cron314 - 35
 
-TypeError: 'undefined' is not a function (evaluating 'this.xp.bind(this,c)')
-
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:550
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:546
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:693
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:96
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:514
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:546
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:611
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:610
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:111
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:15
-TypeError: 'undefined' is not a function (evaluating 'this.xp.bind(this,c)')
-
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:550
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:546
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:693
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:96
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:514
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:546
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:611
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:610
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:111
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:15
-TypeError: 'undefined' is not a function (evaluating 'this.xp.bind(this,c)')
-
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:550
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:546
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:693
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:96
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:514
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:546
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:611
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:610
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:111
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:15
 Бакка - 6
 Игуаин - 2
 Эдер - 6
