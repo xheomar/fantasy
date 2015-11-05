@@ -1,4 +1,4 @@
-Thu Nov 5 18:39:49 EST 2015
+Thu Nov 5 18:40:30 EST 2015
 Дибала - 2
 Йоветич - 5
 Эдер - 6
@@ -12,97 +12,6 @@ Thu Nov 5 18:39:49 EST 2015
 Ларангейра - 5
 --------------------
 pr-positive - 52
-
-Дибала - 2
-Игуаин - 4
-Йоветич - 5
-Жервиньо - 2
-Инсинье - 1
-Пьянич - -1
-Бардзальи - 2
-Баста - 0
-Ронкалья - 1
-Спортьелло - 1
-Хюсай - 6
---------------------
-ymat - 23
-
-Бакка - 6
-Игуаин - 2
-Жервиньо - 4
-Инсинье - 1
-Перишич - 3
-Пьянич - -1
-Гонсалес - 2
-Гонсало - 8
-Гулям - 6
-Миранда - 6
-Спортьелло - 1
---------------------
-xheo - 38
-
-TypeError: 'undefined' is not a function (evaluating 'this.xp.bind(this,c)')
-
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:550
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:546
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:693
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:96
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:514
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:546
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:611
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:610
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:111
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:15
-TypeError: 'undefined' is not a function (evaluating 'this.xp.bind(this,c)')
-
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:550
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:546
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:693
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:96
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:514
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:546
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:611
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:610
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:111
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:15
-TypeError: 'undefined' is not a function (evaluating 'this.xp.bind(this,c)')
-
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:550
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:546
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:693
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:96
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:514
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:546
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:611
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:610
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:111
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:15
-Игуаин - 4
-Палоски - 1
-Берарди - 3
-Жервиньо - 2
-Инсинье - 1
-Перишич - 3
-Гонсало - 8
-Гулям - 6
-Тэтэрушану - 6
-Бирса - 2
-Динь - 1
---------------------
-busotir - 37
-
-Игуаин - 2
-Эдер - 12
-Бонавентура - 7
-Инсинье - 1
-Пьянич - -1
-Гулям - 6
-Динь - 1
-Манолас - 2
-Спортьелло - 1
-Меджорини - 4
---------------------
-cron314 - 35
 
   https://www.gstatic.com/swiffy/v7.4/runtime.js:88
   https://www.gstatic.com/swiffy/v7.4/runtime.js:310
@@ -133,6 +42,97 @@ TypeError: Attempting to change value of a readonly property.
   :1
   https://www.gstatic.com/swiffy/v7.4/runtime.js:297
   https://www.gstatic.com/swiffy/v7.4/runtime.js:769
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:96
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:514
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:546
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:611
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:610
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:111
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:15
+Дибала - 2
+Игуаин - 4
+Йоветич - 5
+Жервиньо - 2
+Инсинье - 1
+Пьянич - -1
+Бардзальи - 2
+Баста - 0
+Ронкалья - 1
+Спортьелло - 1
+Хюсай - 6
+--------------------
+ymat - 23
+
+Бакка - 6
+Игуаин - 2
+Жервиньо - 4
+Инсинье - 1
+Перишич - 3
+Пьянич - -1
+Гонсалес - 2
+Гонсало - 8
+Гулям - 6
+Миранда - 6
+Спортьелло - 1
+--------------------
+xheo - 38
+
+Игуаин - 4
+Палоски - 1
+Берарди - 3
+Жервиньо - 2
+Инсинье - 1
+Перишич - 3
+Гонсало - 8
+Гулям - 6
+Тэтэрушану - 6
+Бирса - 2
+Динь - 1
+--------------------
+busotir - 37
+
+Игуаин - 2
+Эдер - 12
+Бонавентура - 7
+Инсинье - 1
+Пьянич - -1
+Гулям - 6
+Динь - 1
+Манолас - 2
+Спортьелло - 1
+Меджорини - 4
+--------------------
+cron314 - 35
+
+TypeError: 'undefined' is not a function (evaluating 'this.xp.bind(this,c)')
+
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:550
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:546
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:693
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:96
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:514
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:546
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:611
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:610
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:111
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:15
+TypeError: 'undefined' is not a function (evaluating 'this.xp.bind(this,c)')
+
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:550
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:546
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:693
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:96
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:514
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:546
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:611
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:610
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:111
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:15
+TypeError: 'undefined' is not a function (evaluating 'this.xp.bind(this,c)')
+
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:550
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:546
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:693
   https://www.gstatic.com/swiffy/v7.4/runtime.js:96
   https://www.gstatic.com/swiffy/v7.4/runtime.js:514
   https://www.gstatic.com/swiffy/v7.4/runtime.js:546
