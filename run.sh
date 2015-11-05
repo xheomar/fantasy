@@ -2,6 +2,7 @@
 
 while [ 1 ]
 do
+		echo `date` > result.txt
 		echo PR-POSITIVE
 		while [ 1 ] 
 		do 
@@ -12,7 +13,7 @@ do
 				else break;
 			fi
 		done 
-		tail -n 50 temp.txt > result.txt
+		tail -n 50 temp.txt >> result.txt
 		
 		echo YMAT
 		while [ 1 ] 
