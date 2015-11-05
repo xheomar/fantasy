@@ -1,4 +1,4 @@
-Thu Nov 5 18:46:59 EST 2015
+Thu Nov 5 18:51:06 EST 2015
 Дибала - 2
 Йоветич - 5
 Эдер - 6
@@ -41,21 +41,6 @@ ymat - 23
 --------------------
 xheo - 38
 
-Игуаин - 4
-Палоски - 1
-Берарди - 3
-Жервиньо - 2
-Инсинье - 1
-Перишич - 3
-Гонсало - 8
-Гулям - 6
-Тэтэрушану - 6
-Бирса - 2
-Динь - 1
---------------------
-busotir - 37
-
-
   https://www.gstatic.com/swiffy/v7.4/runtime.js:88
   https://www.gstatic.com/swiffy/v7.4/runtime.js:310
   https://www.gstatic.com/swiffy/v7.4/runtime.js:346
@@ -92,6 +77,20 @@ TypeError: Attempting to change value of a readonly property.
   https://www.gstatic.com/swiffy/v7.4/runtime.js:610
   https://www.gstatic.com/swiffy/v7.4/runtime.js:111
   https://www.gstatic.com/swiffy/v7.4/runtime.js:15
+Игуаин - 4
+Палоски - 1
+Берарди - 3
+Жервиньо - 2
+Инсинье - 1
+Перишич - 3
+Гонсало - 8
+Гулям - 6
+Тэтэрушану - 6
+Бирса - 2
+Динь - 1
+--------------------
+busotir - 37
+
 Игуаин - 2
 Эдер - 12
 Бонавентура - 7
