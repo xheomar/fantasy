@@ -1,40 +1,4 @@
-Thu Nov 5 18:43:40 EST 2015
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:88
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:310
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:346
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:732
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:742
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:743
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:290
-  :1
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:297
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:769
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:96
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:514
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:546
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:611
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:610
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:111
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:15
-TypeError: Attempting to change value of a readonly property.
-
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:88
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:310
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:346
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:732
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:742
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:743
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:290
-  :1
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:297
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:769
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:96
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:514
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:546
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:611
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:610
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:111
-  https://www.gstatic.com/swiffy/v7.4/runtime.js:15
+Thu Nov 5 18:44:20 EST 2015
 Дибала - 2
 Йоветич - 5
 Эдер - 6
@@ -77,6 +41,42 @@ ymat - 23
 --------------------
 xheo - 38
 
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:88
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:310
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:346
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:732
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:742
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:743
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:290
+  :1
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:297
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:769
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:96
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:514
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:546
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:611
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:610
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:111
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:15
+TypeError: Attempting to change value of a readonly property.
+
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:88
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:310
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:346
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:732
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:742
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:743
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:290
+  :1
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:297
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:769
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:96
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:514
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:546
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:611
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:610
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:111
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:15
 Игуаин - 4
 Палоски - 1
 Берарди - 3
