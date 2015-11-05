@@ -1,3 +1,4 @@
+Thu Nov 5 18:38:41 EST 2015
 Дибала - 2
 Йоветич - 5
 Эдер - 6
@@ -12,6 +13,42 @@
 --------------------
 pr-positive - 52
 
+TypeError: 'undefined' is not a function (evaluating 'this.xp.bind(this,c)')
+
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:550
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:546
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:693
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:96
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:514
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:546
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:611
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:610
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:111
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:15
+TypeError: 'undefined' is not a function (evaluating 'this.xp.bind(this,c)')
+
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:550
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:546
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:693
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:96
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:514
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:546
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:611
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:610
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:111
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:15
+TypeError: 'undefined' is not a function (evaluating 'this.xp.bind(this,c)')
+
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:550
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:546
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:693
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:96
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:514
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:546
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:611
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:610
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:111
+  https://www.gstatic.com/swiffy/v7.4/runtime.js:15
 Дибала - 2
 Игуаин - 4
 Йоветич - 5
