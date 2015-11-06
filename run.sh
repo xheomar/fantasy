@@ -3,12 +3,14 @@
 while [ 1 ]
 do
 		echo `date` > result.txt
+		echo " " >> result.txt
 		echo PR-POSITIVE
 		while [ 1 ] 
 		do 
 			phantomjs getPoints.js http://www.sports.ru/fantasy/football/team/1553274.html pr-positive > temp.txt
 			NUM=`grep -c "ads.adfox.ru" ./temp.txt` 
-			if [ ${NUM} -ne 0 ]
+			MUN=`grep -c "gstatic.com"  ./temp.txt`
+			if [[ ${NUM} -ne 0 || ${MUN} -ne 0 ]]
 				then continue;
 				else break;
 			fi
@@ -20,7 +22,8 @@ do
 		do 
 			phantomjs getPoints.js http://www.sports.ru/fantasy/football/team/1557043.html ymat > temp.txt
 			NUM=`grep -c "ads.adfox.ru" ./temp.txt` 
-			if [ ${NUM} -ne 0 ]
+			MUN=`grep -c "gstatic.com"  ./temp.txt`
+			if [[ ${NUM} -ne 0 || ${MUN} -ne 0 ]]
 				then continue;
 				else break;
 			fi
@@ -32,7 +35,8 @@ do
 		do 
 			phantomjs getPoints.js http://www.sports.ru/fantasy/football/team/1559624.html xheo > temp.txt
 			NUM=`grep -c "ads.adfox.ru" ./temp.txt` 
-			if [ ${NUM} -ne 0 ]
+			MUN=`grep -c "gstatic.com"  ./temp.txt`
+			if [[ ${NUM} -ne 0 || ${MUN} -ne 0 ]]
 				then continue;
 				else break;
 			fi
@@ -44,7 +48,8 @@ do
 		do 
 			phantomjs getPoints.js http://www.sports.ru/fantasy/football/team/1558719.html busotir > temp.txt
 			NUM=`grep -c "ads.adfox.ru" ./temp.txt` 
-			if [ ${NUM} -ne 0 ]
+			MUN=`grep -c "gstatic.com"  ./temp.txt`
+			if [[ ${NUM} -ne 0 || ${MUN} -ne 0 ]]
 				then continue;
 				else break;
 			fi
@@ -56,7 +61,8 @@ do
 		do 
 			phantomjs getPoints.js http://www.sports.ru/fantasy/football/team/1562633.html cron314 > temp.txt
 			NUM=`grep -c "ads.adfox.ru" ./temp.txt` 
-			if [ ${NUM} -ne 0 ]
+			MUN=`grep -c "gstatic.com"  ./temp.txt`
+			if [[ ${NUM} -ne 0 || ${MUN} -ne 0 ]]
 				then continue;
 				else break;
 			fi
@@ -68,7 +74,8 @@ do
 		do 
 			phantomjs getPoints.js http://www.sports.ru/fantasy/football/team/1557039.html PrincipessaMilana > temp.txt
 			NUM=`grep -c "ads.adfox.ru" ./temp.txt` 
-			if [ ${NUM} -ne 0 ]
+			MUN=`grep -c "gstatic.com"  ./temp.txt`
+			if [[ ${NUM} -ne 0 || ${MUN} -ne 0 ]]
 				then continue;
 				else break;
 			fi
